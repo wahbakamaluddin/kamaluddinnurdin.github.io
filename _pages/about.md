@@ -19,8 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Kamaluddin Nurdin is an Associate Professor at the Faculty of Usuluddin, Universiti Islam Sultan Sharif Ali (UNISSA). He was born on June 11, 1973, in Soppeng, Sulawesi Selatan, Indonesia. He received his Ph.D. in Akidah and Islamic Philosophy from the University of Cairo.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Kamaluddin is the author of "Al-ʻAqīdah al-Islāmīyah wa-Al-Qadāyā al-Khilāfīyah ʻinda ʻUlamāʼ al-Kalām," published by Dār al-Kutub al-ʻIlmīyah in Beirut, Lebanon. He has been appointed as a Keynote and Invited Speaker for International Seminars at Marmara University in Istanbul, Turkey; Çanakkale Onsekiz Mart University in Turkey; the International Islamic Academy of Uzbekistan; as well as several universities in Malaysia, Indonesia, and Brunei Darussalam.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+He has supervised three Master's and fifteen Ph.D. students who have successfully graduated under his guidance. Additionally, Kamaluddin has served as an External Examiner for five Master's and thirty-eight Ph.D. theses.
+
+Currently, he has authored 18 books in Arabic and Malay languages, published in various countries including Beirut, Lebanon; Cairo, Egypt; Abu Dhabi, UAE; Malaysia; Indonesia; and Brunei Darussalam. These books are housed in prestigious institutions worldwide such as Harvard University, Yale University, Columbia University, Stanford University, the University of Toronto, Leiden University, the British Library, Cairo University, King Saud University, Renmin University Beijing, Kyoto University, the Hebrew University, Haifa University Israel, the Iran National Library, Umm Al-Qura University Mecca, Kuwait National Library, Qatar National Library, and others.
