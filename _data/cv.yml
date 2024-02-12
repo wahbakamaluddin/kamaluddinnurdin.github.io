@@ -39,7 +39,7 @@
       year: 2005
       description:
         - Title - "موقف الزيدية وأهل السنة من العقيدة الإسماعيلية وفلسفتها" (Theological Positions of Zaydiya and Sunni Scholars Against the Isma'ili Doctrines and Philosophies)
-        - Grade "First Class of Honors"
+        - Grade - "First Class of Honors"
         - Published by Dar al Kotob Ilmiyah, Beirut-Lebanon, ISBN 978-2-7451-6255-7. 2009. 6 editions published from 2009 until now. 
 
     - title: Master in Islamic Theology
@@ -47,7 +47,7 @@
       year: 1900
       description:
         - Title - "مسائل الاعتقاد عند الإمام القرطبي" (Imām Qurtubi and the Issues of Aqīdah)
-        - Grade "Excellence"
+        - Grade - "Excellence"
         - Published by Muassasah al-Elya, Cairo-Egypt. 2006. 3 editions (published from 2006 until now)
     
     - title: B. A. in Islamic Law
@@ -67,19 +67,3 @@
       items:
         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
