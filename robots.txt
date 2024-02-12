@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kamaluddinnurdin.github.io/al-folio/sitemap.xml
+Sitemap: https://kamaluddinnurdin.github.io/sitemap.xml
