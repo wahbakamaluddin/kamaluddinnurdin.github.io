@@ -1,13 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Kamaluddin Nurdin Marjuni
-    - name: Date of Birth
-      value: 11th June 1973d
-    - name: Email
-      value: kamalnurdin@yahoo.com
-
 - title: Academic Career
   type: time_table
   contents:
