@@ -1,85 +1,85 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Kamaluddin Nurdin Marjuni
-    - name: Date of Birth
-      value: 11th June 1973d
-    - name: Email
-      value: kamalnurdin@yahoo.com
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Kamaluddin Nurdin Marjuni
+#     - name: Date of Birth
+#       value: 11th June 1973d
+#     - name: Email
+#       value: kamalnurdin@yahoo.com
 
-- title: Academic Career
-  type: time_table
-  contents:
-    - title: Associate Professor of Islamic Theology
-      institution: Universiti Islam Sultan Sharif Ali (UNISSA)
-      year: 2023 - present
-      description: Head of Postgraduate Programme, Faculty of Usuluddin (FOU)
+# - title: Academic Career
+#   type: time_table
+#   contents:
+#     - title: Associate Professor of Islamic Theology
+#       institution: Universiti Islam Sultan Sharif Ali (UNISSA)
+#       year: 2023 - present
+#       description: Head of Postgraduate Programme, Faculty of Usuluddin (FOU)
 
-    - title: Associate Professor of Islamic Theology
-      institution: Universiti Sains Islam Malaysia (USIM)
-      year: 2007 - 2023
-      description: 
-        - Head of Programme, Da'wah and Islamic Management, Faculty of Leadership and Management (FKP)
-        - Head of Programme, Aqidah and Religion Study, Faculty of Leadership and Management (FKP)
+#     - title: Associate Professor of Islamic Theology
+#       institution: Universiti Sains Islam Malaysia (USIM)
+#       year: 2007 - 2023
+#       description: 
+#         - Head of Programme, Da'wah and Islamic Management, Faculty of Leadership and Management (FKP)
+#         - Head of Programme, Aqidah and Religion Study, Faculty of Leadership and Management (FKP)
 
-    - title: Visiting Professor
-      institution: Académie Européenne des Cultures Et Des Savoirs Islamiquesues (AECSI)
-      year: 2021
+#     - title: Visiting Professor
+#       institution: Académie Européenne des Cultures Et Des Savoirs Islamiquesues (AECSI)
+#       year: 2021
 
-    - title:  Visiting Professor
-      institution: Universiti Kebangsaan Malaysia (UKM)
-      year: 2016
+#     - title:  Visiting Professor
+#       institution: Universiti Kebangsaan Malaysia (UKM)
+#       year: 2016
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: Faculty of Dar Olūm, Cairo University, Egypt
-      year: 2005
-      description:
-        - Title: "موقف الزيدية وأهل السنة من العقيدة الإسماعيلية وفلسفتها" (Theological Positions of Zaydiya and Sunni Scholars Against the Isma'ili Doctrines and Philosophies).
-        - Grade "First Class of Honors". Published by Dar al Kotob Ilmiyah, Beirut-Lebanon, ISBN: 978-2-7451-6255-7. 2009. 6 editions published in 2009-Until Now. 
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: PhD
+#       institution: Faculty of Dar Olūm, Cairo University, Egypt
+#       year: 2005
+#       description:
+#         - Title: "موقف الزيدية وأهل السنة من العقيدة الإسماعيلية وفلسفتها" (Theological Positions of Zaydiya and Sunni Scholars Against the Isma'ili Doctrines and Philosophies).
+#         - Grade "First Class of Honors". Published by Dar al Kotob Ilmiyah, Beirut-Lebanon, ISBN: 978-2-7451-6255-7. 2009. 6 editions published in 2009-Until Now. 
         
 
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+#     - title: Federal teaching diploma
+#       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+#       year: 1900
+#       description:
+#         - Description 1.
+#         - Description 2.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
