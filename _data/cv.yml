@@ -34,25 +34,28 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Islamic Phylosophy
       institution: Faculty of Dar Olūm, Cairo University, Egypt
       year: 2005
       description:
-        - Title - "موقف الزيدية وأهل السنة من العقيدة الإسماعيلية وفلسفتها" (Theological Positions of Zaydiya and Sunni Scholars Against the Isma'ili Doctrines and Philosophies). Grade "First Class of Honors". Published by Dar al Kotob Ilmiyah, Beirut-Lebanon, ISBN 978-2-7451-6255-7. 2009. 6 editions published in 2009-Until Now. 
+        - Title - "موقف الزيدية وأهل السنة من العقيدة الإسماعيلية وفلسفتها" (Theological Positions of Zaydiya and Sunni Scholars Against the Isma'ili Doctrines and Philosophies)
+        - Grade "First Class of Honors"
+        - Published by Dar al Kotob Ilmiyah, Beirut-Lebanon, ISBN 978-2-7451-6255-7. 2009
+        . 6 editions published from 2009 until now. 
 
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+    - title: Master in Islamic Theology
+      institution: Faculty of Dar Olūm, Cairo University, Egypt
       year: 1900
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Title - "مسائل الاعتقاد عند الإمام القرطبي" (Imām Qurtubi and the Issues of Aqīdah)
+        - Grade "Excellence"
+        - Published by Muassasah al-Elya, Cairo-Egypt. 2006. 3 editions (published from 2006 until now)
+    
+    - title: B. A. in Islamic Law
+      institution: Faculty of Law, al-Azhar University, Branch Tanta. Egypt
+      year: 1997
+      description:
+        - Grade "Good"
 
 - title: Honors and Awards
   type: time_table
