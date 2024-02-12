@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Kamaluddin Nurdin Marjuni # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Kamaluddin 
 middle_name: Nurdin
 last_name: Marjuni
