@@ -24,46 +24,58 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Sultan Sharif Ali Islamic University (Universiti Islam Sultan Sharif Ali (UNISSA))",
+      "position": "Professor of Islamic Theology",
+      "url": "https://unissa.edu.bn/academic/faculty-of-usuluddin/staff-directory/",
+      "startDate": "2023-05-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
     },
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Islamic Science University of Malaysia (Universiti Sains Islam Malaysia (USIM))",
+      "position": "Professor of Islamic Theology",
+      "url": "",
+      "startDate": "2007-03-15",
+      "endDate": "2023-04-25",
+      "summary": "",
+      "highlights": []
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Cairo University",
+      "location": "Giza, Egypt",
+      "url": "https://cu.edu.eg/Home",
+      "area": "Islamic Pylosophy",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2005",
+      "endDate": "",
+      "score": "",
+      "courses": ["Islamic Phylosophy"]
+    }
+    {
+      "institution": "Cairo University",
+      "location": "Giza, Egypt",
+      "url": "https://cu.edu.eg/Home",
+      "area": "Islamic Theology",
+      "studyType": "Master",
+      "startDate": "2002",
+      "endDate": "",
+      "score": "",
+      "courses": ["Islamic Theology"]
+    },
+    {
+      "institution": "Al-Azhar University",
+      "location": "Cairo, Egypt",
+      "url": "",
+      "area": "Islamic Law",
+      "studyType": "Undergraduate",
+      "startDate": "1997",
+      "endDate": "",
+      "score": "",
+      "courses": ["Islamic Law"]
     }
   ],
   "awards": [
