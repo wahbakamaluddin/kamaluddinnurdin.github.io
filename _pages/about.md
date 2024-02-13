@@ -13,7 +13,7 @@ profile:
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Kamaluddin Nurdin is an Associate Professor at the Faculty of Usuluddin, Universiti Islam Sultan Sharif Ali (UNISSA). He was born on June 11, 1973, in Soppeng, Sulawesi Selatan, Indonesia. He received his Ph.D. in Akidah and Islamic Philosophy from the University of Cairo.
