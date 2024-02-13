@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Currently has written 18 books in Arabic and Malay languages, and published in various countries such as Beirut-Lebanon, Cairo-Egypt, Abu Dhabi-UEA, Turkey, Malaysia, Indonesia and Brunei Darussalam.
+description: Has currently written 18 books in Arabic and Malay, published in various countries like Beirut-Lebanon, Cairo-Egypt, Abu Dhabi-UAE, Turkey, Malaysia, Indonesia, and Brunei Darussalam
 nav: true
 nav_order: 2
 ---
