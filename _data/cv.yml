@@ -44,7 +44,7 @@
       institution: Faculty of Law, al-Azhar University, Branch Tanta. Egypt
       year: 1997
       description:
-        - Grade "Good"
+        - Grade - "Good"
 
 - title: International Professional Membership
   type: time_table
@@ -52,8 +52,7 @@
     - title: Imam Maturidi International Scientific Research Center
       institution: Tashkant, Uzbekistan
       year: 2021 - present
-      description:
-        - Expert Board Member
+      role: Expert Board Member
 
     - title: AECSI, Paris – France
       institution: Académie Européenne des Cultures Et Des Savoirs Islamiquesues
