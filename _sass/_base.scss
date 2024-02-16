@@ -184,12 +184,11 @@ blockquote {
     margin-top: 5px;
     font-family: default;
     font-size: 0.75rem;
-
+    font-style: italic; /* Make the text italic */
+    color: #828282; /* Set the text color to grey */
     p {
       display: inline-block;
       margin: 0;
-      font-style: italic; /* Make the text italic */
-      color: #828282; /* Set the text color to grey */
     }
   }
 }
