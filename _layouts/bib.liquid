@@ -1,5 +1,3 @@
----
----
 <div class="row">
   {% if site.enable_publication_thumbnails %}
     <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
@@ -127,27 +125,35 @@
     </div>
 
     <!-- Journal/Book title and date -->
-    {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
-    {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
-    {% if entry.type == 'article' %}
+    {% if entry.type == 'book' %}
+      {% capture entrytype %}<em>{{ entry.publisher }}</em>{% endcapture %}
+    {% elsif entry.type == 'article' %}
       {% capture entrytype %}<em>{{entry.journal}}</em>{% endcapture %}
     {% elsif proceedings contains entry.type %}
-      {% capture entrytype %}<em>In {{entry.booktitle}}</em> {% endcapture %}
+      {% capture entrytype %}<em>In {{entry.booktitle}}</em>{% endcapture %}
     {% elsif thesis contains entry.type %}
-      {% capture entrytype %}<em>{{entry.school}}</em> {% endcapture %}
-    {% elsif entry.type == 'book' %}
-      {% capture entrytype %}<em>{{ entry.publisher }}</em>{% endcapture %}
+      {% capture entrytype %}<em>{{entry.school}}</em>{% endcapture %}
     {% else %}
       {% capture entrytype %}{% endcapture %}
     {% endif %}
-    {% if entry.month %}
-      {% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}
+
+    {% assign periodical = "" %}
+    {% if entrytype != "" %}
+      {% assign periodical = entrytype %}
     {% endif %}
-    {% if entry.year %}
-      {% capture entryyear %}{{ " " }}{{entry.year}}{% endcapture %}
+    {% if entryyear != "" %}
+      {% if periodical != "" %}
+        {% assign periodical = periodical | append: ", " %}
+      {% endif %}
+      {% assign periodical = periodical | append: entryyear %}
     {% endif %}
-    {% assign entrytype_text = entrytype | strip_html | strip %}
-    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
+    {% if entrymonth != "" %}
+      {% if periodical != "" %}
+        {% assign periodical = periodical | append: " " %}
+      {% endif %}
+      {% assign periodical = periodical | append: entrymonth %}
+    {% endif %}
+
     <div class="periodical">
       {{ periodical | strip }}
     </div>
