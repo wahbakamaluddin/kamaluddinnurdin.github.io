@@ -182,7 +182,8 @@ blockquote {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: default;
+    font-size: 0.75rem;
 
     p {
       display: inline-block;
