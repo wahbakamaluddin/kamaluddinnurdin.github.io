@@ -188,6 +188,8 @@ blockquote {
     p {
       display: inline-block;
       margin: 0;
+      font-style: italic; /* Make the text italic */
+      color: #828282; /* Set the text color to grey */
     }
   }
 }
