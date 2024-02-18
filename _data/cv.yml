@@ -93,6 +93,7 @@
         - 2017, Good employee
         - 2018, Good employee
 
+
 - title: Academic Conferences and Seminars
   type: time_table
   contents:
@@ -341,3 +342,19 @@
       year: 09/8/2012
       description:
         - Invited Speaker
+
+
+
+- title: Teaching Subjects and Codes
+  type: time_table
+  contents:
+    - institution: UNISSA
+      year: 2021 - present
+      description:
+        * Master/ Ph.D
+          - UP7308 Dirasat Istishraqiyyah
+        * Degree
+           - Tauhid II (UA4319)
+            - Fan Al-Khitabah (UA3312)
+            - Aqidah Ahl Sunnah Wa Al-Jamaa (UA2106)
+
