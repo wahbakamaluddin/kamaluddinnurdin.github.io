@@ -96,39 +96,254 @@
 - title: Academic Conferences and Seminars
   type: time_table
   contents:
+    - title: 23rd Annual International Conference on Islamic Studies (AICIS), أهمية مقاصد العقيدة في حل الخلافات الفكرية (The Significance of Maqasid Aqidah in Resolving Intellectual Disputes)
+      institution: Ministry of Religious Affairs of Indonesia
+      year: 1–4/02/2024
+      description:
+        - Invited Speaker
+
     - title: International Conference on Islamic Moderation (AICIM), Understanding Religious Moderation in the Islamic World, Moderasi Beagama Dari Perspekif Maqasid Akidah
       institution: Universitas Islam Negeri (UIN) Sjech M. Djamil Djambek Bukittinggi, Indonesia
       year: 13/09/2023
       description:
         - Invited Speaker
 
-    - title: Moderasi Beagama Dari Perspekif Maqasid Akidah
-      institution: International Conference on Islamic Moderation (AICIM), Understanding Religious Moderation in the Islamic World, Universitas Islam Negeri (UIN) Sjech M. Djamil Djambek Bukittinggi, Indonesia
-      year: 13/09/2023
+    - title: International Seminar On Usuluddin Education, Membumikan Nilai-Nilai Maqasid Akidah
+      institution: Kolej Universiti Perguruan Ugama Seri Begawan (KUPUSB), Brunei Darussalam,
+      year: 17/08/2023
+      description:
+        - Keynote Speaker
+
+    - title: ICON-IMAD XII 2023 International Conference, معطيات التداخل المعتقدي الفكري عند الشيعة الإسماعيلة,
+      institution: Langkawi-Malaysia
+      year: 25/07/2023
+      description:
+        - Speaker
+
+    - title: The 2nd International Hybrid Symposium, Faculty of Theology, مقاصد العقيدة وأثرها في تحرير محل الخلافات العقائدية,
+      institution: Çanakkale Onsekiz Mart University, Türkiye
+      year: 25/07/2023
+      description:
+        - Speaker
+
+    - title: International Hybrid Conference, Aplikasi Maqasid Akidah Dalam Teologi Islam
+      institution: UIN Walisongo and UIN Saizu
+      year: 27/10/2022
       description:
         - Invited Speaker
 
-    - title: International Conference on Islamic Moderation (AICIM), Understanding Religious Moderation in the Islamic World,
-      institution: Universitas Islam Negeri (UIN) Sjech M. Djamil Djambek Bukittinggi, Indonesia
-      year: 13/09/2023
+    - title: The Teaching of Maturidiyya and The Present (International Conference), مقاصد العقيدة عند الإمام الماتريدي
+      institution: International Islamic Academy of Uzbekistan, Tashkent, Uzbekistan
+      year: 26/05/2022
       description:
-        - Moderasi Beagama Dari Perspekif Maqasid Akidah
         - Invited Speaker
 
-    # - title: International Seminar On Usuluddin Education, Membumikan Nilai-Nilai Maqasid Akidah
-    #   institution: Kolej Universiti Perguruan Ugama Seri Begawan (KUPUSB), Brunei Darussalam,
-    #   year: 17/08/2023
-    #   description:
-    #     - Keynote Speaker
+    - title: The Contribution of Eastern Scholars to Islamic Civilization (International Conference), موقف الإمام أبي منصور الماتريدي من الفكر المتطرف
+      institution: Religious Affairs under the Cabinet of Ministers of the Republic of Uzbekistan
+      year: 19/05/2022
+      description:
+        - Invited Speaker
 
-    # - title: International Seminar On Usuluddin Education, Membumikan Nilai-Nilai Maqasid Akidah
-    #   institution: Kolej Universiti Perguruan Ugama Seri Begawan (KUPUSB), Brunei Darussalam,
-    #   year: 17/08/2023
-    #   description:
-    #     - Keynote Speaker
+    - title: Contemporary issues in the development of Islamic studies, (Public Lecture), منع أيدولوجية التطرف الفكري بالمقاصد العقائدية
+      institution: State Islamic University (UIN) Syarif Hidayatullah, Jakarta
+      year: 20/03/2022
+      description:
+        - Invited Speaker
 
-    # - title: International Seminar On Usuluddin Education, Membumikan Nilai-Nilai Maqasid Akidah
-    #   institution: Kolej Universiti Perguruan Ugama Seri Begawan (KUPUSB), Brunei Darussalam,
-    #   year: 17/08/2023
-    #   description:
-    #     - Keynote Speaker
+    - title: International Conference on Social and Islamic Studies, Urgensi Kajian Maqasid Akidah Dalam Teologi Islam
+      institution: State Islamic University (UIN) Alauddin, Makassar
+      year: 21-22/12/2021
+      description:
+        - Keynote Speaker
+
+    - title: The Teaching of Maturidiyya and The Present (International Conference), المدرسة الماتريدية في جنوب شرق آسيا والكفاح ضد التيارات المتعصبة
+      institution: International Islamic Academy of Uzbekistan, Samarqand, Uzbekistan
+      year: 16/06/2021
+      description:
+        - Invited Speaker
+
+    - title: Reliogiosity in Pandemic Times (International Seminar), Pandemi Covid-19 Dari Perspektif Teologi Islam
+      institution: State Islamic University of Datokarama (UIN, Palu)
+      year: , 31/07/2021
+      description:
+        - Keynote Speaker
+
+    - title: Imam Abu Mansur Moturidi and the Teachings of Moturidia - The Past and the Present, (International Conference) جهود المدرسة الماتريدية الكلامية في الدفاع عن العقيدة الإسلامية
+      institution: International Islamic Academy of Uzbekistan, Samarqand, Uzbekistan
+      year: 2-5/3/2020
+      description:
+        - Invited Speaker
+
+    - title: Seminar of Professors' Research
+      institution: Sultan Syarif Kasim State Islamic University (UIIN SUSKA), Pekanbaru, Riau
+      year: 19/11/2019
+      description:
+        - Invited Speaker
+
+    - title: Integrasi Naqli Aqli Dalam Bidang Kounseling
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 28/08/2019
+      description:
+        - Invited Speaker
+
+    - title: Fenomena Ekstrimisme Dalam Aliran-Aliran Teologi. (International Conference)
+      institution: IAIN, Bone, Makassar, Indonesia
+      year: 24-25/2018
+      description:
+        - Keynote Speaker
+
+    - title: International Seminar on Imam Maturidi, Faculty of Theology, وسطية الإمام الماتريدي في إثبات العقيدة الإسلامية
+      institution: Marmara University, Istanbul-Turkey.
+      year: 2-3/11/2018
+      description:
+        - Invited Speaker
+
+    - title: Konsep Kepemimpinan Dalam Perspektif Teologi Syiah. International Seminar on Transformative Leadership
+      institution: State Islamic Institute of Sorong.  Postgraduate STAIN, West Papua, Indonesia
+      year: 09/11/2017
+      description:
+        - Invited Speaker
+
+    - title: Propaganda dan Ancaman Syiah di Malaysia, Seminar Wacana Pemantapan Akidah Ahli Sunnah wal Jama'ah
+      institution: Yayasan Dakwah Islamiah Malaysia (YADIM) & Ancaman Syiah di Malaysia, Royal Malaysian Navy (TLDM), Lumut, Perak
+      year: 17/11/2017
+      description:
+        - Invited Speaker
+
+    - title:
+      institution:
+      year: 27/10/2022
+      description:
+        - Invited Speaker
+
+    - title: Gerakan Syiah di Indonesia dan Malaysia. Seminar Antarabangsa Gerakan Syi'ah dan Kesannya Terhadap Dunia Islam
+      institution: National University of Malaysia (UKM)
+      year: 21-22/4/2016
+      description:
+        - Keynote Speaker
+
+    - title: Syiah - Aqīdah, Politik dan Penyebaran
+      institution: Institute of Islam Hadhari, National University of Malaysia (UKM)
+      year: 18/08/2016
+      description:
+        - Invited Speaker
+
+    - title: Pemikiran Syiah dan Bahayanya, Travelog Ilmiah
+      institution: Universiti Sultan Zainal Abidin (UNISZA),
+      year: 11/11/2016
+      description:
+        - Presenter
+
+    - title: Akidah Ahli Sunnah wal Jama'ah
+      institution: Academic & Entrepreneurship Festival
+      year: 24/05/2016
+      description:
+        - Invited Speaker
+
+    - title: Imam Mahdi - Menyingkap Rahsia Penyelamat Yang Dinanti-nanti
+      institution: Islamic Religious Department of Sepang, Selangor
+      year: 05/04/2016
+      description:
+        - Invited Speaker
+
+    - title: Syiah - Siapa, Mengapa dan Bagaiaman? (ISFI)
+      institution: International Islamic University Malaysia (IIUM)
+      year: 14/04/2015
+      description:
+        - Invited Speaker
+
+    - title: Mengurai Problema Sunni - Syiah dari Perspektif Ukhuwah,  Seminar on Syiah
+      institution: Islamic Center, Bekasi, Indonesia
+      year: 11/12/2013
+      description:
+        - Invited Speaker
+
+    - title: موقف أهل السنة من الشيعة الإثني عشرية -عقيدة وسياسة- Seminar on Syiah – Divergence of Faith
+      institution: International Islamic University Malaysia IIUM
+      year: 17/11/2013
+      description:
+        - Invited Speaker
+
+    - title: Syiah - Realiti dan Cabaran, Konvensyen Penguatkuasa Agama & Pendakwa Syarie Seluruh Malaysia
+      institution: Jabatan Kemajuan Islam Malaysia (JAKIM), Hotel De Palma, Ampang Selangor
+      year: 24/10/2013
+      description:
+        - Invited Speaker
+
+    - title: Potret Penyebaran Syiah di Negara-Negara Sunni, Taklimat Pakar dalam Mesyuarat Ketua Pegawai Penguatkuasa Agama dan Ketua Pendakwa Syarie Seluruh Malaysia Kali ke-12
+      institution: M Suite Hotel, Johor Baru
+      year: 20/02/2013
+      description:
+        - Invited Speaker
+
+    - title: Merungkai Persoalan di Sebalik Aqīdah Syiah
+      institution: DKU, Fakulti Pengajian Qur'an dan Sunnah, Universiti Sains Islam Malaysia
+      year: 28/11/2013
+      description:
+        - Invited Speaker
+
+    - title: Pemikiran Politik Syiah
+      institution: Faculty of Leadership and Management, Islamic Science University of Malaysia (USIM)
+      year: . 23/02/2013 – 03/03/2013
+      description:
+        - Invited Speaker
+
+    - title: Aqīdah Islam dari Perspektif Sunni dan Syiah
+      institution: DKF. 1.2, Fakulti Kepimpinan dan Pengurusan, Universiti Sains Islam Malaysia
+      year: 23/02/2013
+      description:
+        - Invited Speaker
+
+    - title: Beza Aqīdah Sunni dan Syiah (Taklimat Pakar)
+      institution: Dewan Syura, Jabatan Kemajuan Islam Malaysia (JAKIM)
+      year: 16/11/2012
+      description:
+        - Invited Speaker
+
+    - title: Pembebasan Nusantara - Antara Islamisasi dan Kolonialisasi, ISFI
+      institution: International Islamic University Malaysia (IIUM)
+      year: 03/11/2012
+      description:
+        - Invited Speaker
+
+    - title: Syiah - Politik, Akidah dan Syariah
+      institution: Majlis Agama Islam Selangor, Hotel De Palma, Shah Alam, Selangor
+      year: 21/10/2019
+      description:
+        - Invited Speaker
+
+    - title: Gerakan Syiah di Rantau Nusantara
+      institution: Meeting Room and Lectures, Chancellery Building, National University of Malaysia (UKM)
+      year: 28/11/2016
+      description:
+        - Public Lecture/Visiting Professor Activities
+
+    - title: Mampukah Sunni Syiah Bersatu?
+      institution: Meeting Room and Lectures, Chancellery Building, National University of Malaysia (UKM)
+      year: 11/10/2016
+      description:
+        - Public Lecture/Visiting Professor Activities
+
+    - title: Wacana Bahaya Syiah di Malaysia
+      institution: Central Lecture Hall 3, Islamic Science University of Malaysia (USIM)
+      year: 20/11/2013
+      description:
+        - Invited Speaker
+
+    - title: Menangani Ajaran Syiah di Malaysia
+      institution: Central Lecture Hall 3, Islamic Science University of Malaysia (USIM)
+      year: 31/07/2013
+      description:
+        - Invited Speaker
+
+    - title: Merungkai Persolan Disebalik Aqīdah Syiah
+      institution: Lecture Hall, Faculty of Quranic and Sunnah. Islamic Science University of Malaysia (USIM)
+      year: 28/11/2013
+      description:
+        - Invited Speaker
+
+    - title: Syi’ah dan Isu-Isu Semasa di Malaysia dan Indonesia, Library & Publisher
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 09/8/2012
+      description:
+        - Invited Speaker
