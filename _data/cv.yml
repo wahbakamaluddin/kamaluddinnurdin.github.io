@@ -52,7 +52,8 @@
     - title: Imam Maturidi International Scientific Research Center
       institution: Tashkant, Uzbekistan
       year: 2021 - present
-      role: Expert Board Member
+      description:
+        - Expert Board Member
 
     - title: AECSI, Paris – France
       institution: Académie Européenne des Cultures Et Des Savoirs Islamiquesues
