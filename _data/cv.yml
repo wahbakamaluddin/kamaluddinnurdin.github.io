@@ -270,6 +270,9 @@
 ###########################################################
 - title: Examiner of PH. D & Master (Theses and Dissertation)
   type: time_table
+  description:
+    - PH. D (33 Dissertations)
+    - Master (4 Theses)
   contents:
     - title: Dr. Mohamad Saleh Kotob -Egypt- Arabic Title - الدولة الحديثة وتحدياتها السياسية لنظام الحكم الإسلامي المنشود
       institution: International Islamic University Malaysia (IIUM)
