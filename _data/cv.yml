@@ -201,11 +201,9 @@
 - title: Supervision of PH. D & Master Theses and Dissertation
   type: time_table
   contents:
-    - title: PH. D
-      description:
-        title: Dr. Muhammad Irfanudin Kurniawan (PH.D) Indonesia, Arabic Title - الخلاف القائم بين الشيعة في إندونيسيا -منظمة أهل البيبت (ABI) ورابطة جماعة أهل البيت (IJABI)
-        institution: Universiti Sains Islam Malaysia (USIM)
-        year: 2023
+    - title: Dr. Muhammad Irfanudin Kurniawan (PH.D) Indonesia, Arabic Title - الخلاف القائم بين الشيعة في إندونيسيا -منظمة أهل البيبت (ABI) ورابطة جماعة أهل البيت (IJABI)
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 2023
 
 ###########################################################
 #6) EXAMINER OF PH. D & MASTER (THESES AND DISSERTATIONS)
