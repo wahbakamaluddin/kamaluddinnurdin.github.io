@@ -1,7 +1,6 @@
 #############################
 #1)EDUCATION
 #############################
-
 - title: Education
   type: time_table
   contents:
@@ -30,7 +29,6 @@
 #############################
 #2)ACADEMIC CAREER
 #############################
-
 - title: Academic Career
   type: time_table
   contents:
@@ -80,7 +78,6 @@
 #############################
 #4)TEACHING SUBJECTS
 #############################
-
 - title: Teaching Subjects and Codes
   type: time_table
   contents:
@@ -456,11 +453,11 @@
       year: 2022 – Present
 
     - title: IJIS, International Journal of Islamic Studies Postgraduate
-      institution: , Alauddin State Islamic University (UIN), Makassar, Indonesia
+      institution: Alauddin State Islamic University (UIN), Makassar, Indonesia
       year: 2021 - Present
 
     - title: Jurnal Pemikiran dan Pengembangan Perbankan Syariah
-      institution: , Sekolah Tinggi Ekonomi dan Bisnis Syariah (STEBIS IGM), Palembang, Indonesia
+      institution: Sekolah Tinggi Ekonomi dan Bisnis Syariah (STEBIS IGM), Palembang, Indonesia
       year: 2021 - Present
 
     - title: Journal of Nurani
@@ -526,15 +523,6 @@
 ###########################################################
 #9) ACADEMIC CONFERENCES AND SEMINARS
 ###########################################################
-
-###########################################################
-#10) REVIEW OF BOOKS AND ARTICLES
-###########################################################
-
-###########################################################
-#9) ACADEMIC CONFERENCES AND SEMINARS
-###########################################################
-
 - title: Academic Conferences and Seminars
   type: time_table
   contents:
@@ -783,3 +771,7 @@
       year: 09/8/2012
       description:
         - Invited Speaker
+###########################################################
+#10) REVIEW OF BOOKS AND ARTICLES
+###########################################################
+
