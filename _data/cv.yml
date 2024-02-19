@@ -348,12 +348,13 @@
     - year: "2023 - present"
       institution: UNISSA
       description:
-        "Master/Ph.D.":
-          - UP7308 Dirasat Istishraqiyyah
-        "Degree":
-          - Tauhid II (UA4319)
-          - Fan Al-Khitabah (UA3312)
-          - Aqidah Ahl Sunnah Wa Al-Jamaa (UA2106)
+        - Master/Ph.D.
+          UP7308 Dirasat Istishraqiyyah
+
+        - Degree
+          Tauhid II (UA4319)
+          Fan Al-Khitabah (UA3312)
+          Aqidah Ahl Sunnah Wa Al-Jamaa (UA2106)
 # - title: Teaching Subjects and Codes
 #   type: time_table
 #   contents:
