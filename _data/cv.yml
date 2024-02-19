@@ -186,6 +186,12 @@
       description:
         - Invited Speaker
 
+    - title: Syiah - Politik, Akidah dan Syariah
+      institution: Majlis Agama Islam Selangor, Hotel De Palma, Shah Alam, Selangor
+      year: 21/10/2019
+      description:
+        - Invited Speaker
+
     - title: Fenomena Ekstrimisme Dalam Aliran-Aliran Teologi. (International Conference)
       institution: IAIN, Bone, Makassar, Indonesia
       year: 24-25/2018
@@ -239,6 +245,18 @@
       year: 05/04/2016
       description:
         - Invited Speaker
+
+    - title: Gerakan Syiah di Rantau Nusantara
+      institution: Meeting Room and Lectures, Chancellery Building, National University of Malaysia (UKM)
+      year: 28/11/2016
+      description:
+        - Public Lecture/Visiting Professor Activities
+
+    - title: Mampukah Sunni Syiah Bersatu?
+      institution: Meeting Room and Lectures, Chancellery Building, National University of Malaysia (UKM)
+      year: 11/10/2016
+      description:
+        - Public Lecture/Visiting Professor Activities
 
     - title: Syiah - Siapa, Mengapa dan Bagaiaman? (ISFI)
       institution: International Islamic University Malaysia (IIUM)
@@ -300,24 +318,6 @@
       description:
         - Invited Speaker
 
-    - title: Syiah - Politik, Akidah dan Syariah
-      institution: Majlis Agama Islam Selangor, Hotel De Palma, Shah Alam, Selangor
-      year: 21/10/2019
-      description:
-        - Invited Speaker
-
-    - title: Gerakan Syiah di Rantau Nusantara
-      institution: Meeting Room and Lectures, Chancellery Building, National University of Malaysia (UKM)
-      year: 28/11/2016
-      description:
-        - Public Lecture/Visiting Professor Activities
-
-    - title: Mampukah Sunni Syiah Bersatu?
-      institution: Meeting Room and Lectures, Chancellery Building, National University of Malaysia (UKM)
-      year: 11/10/2016
-      description:
-        - Public Lecture/Visiting Professor Activities
-
     - title: Wacana Bahaya Syiah di Malaysia
       institution: Central Lecture Hall 3, Islamic Science University of Malaysia (USIM)
       year: 20/11/2013
@@ -357,9 +357,7 @@
             - Tauhid II (UA4319)
             - Fan Al-Khitabah (UA3312)
             - Aqidah Ahl Sunnah Wa Al-Jamaa (UA2106)
-- title: Teaching Subjects and Codes
-  type: time_table
-  contents:
+
     - institution: USIM
       year: 2007 - 2023
       description:
