@@ -205,88 +205,69 @@
       institution: Universiti Sains Islam Malaysia (USIM)
       year: 2023
 
+    - title: Dr. Muhammad Rizieq Syihab (PH.D) Indonesia, Arabic Title - مناهح التمييز بين الأصول والفروع في العقيدة، والشريعة، والأخلاق عند أهل السنة والجماعة
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 2021
+
+    - title: Dr. Fadhlina Arif (PH.D) Indonesia, Malay Title - Konsep Ishmah, Studi Kritik Sanad Hadis, Komparatif Shi'ah Imamiyah dan Shi'ah Zaidiyah.
+      institution: Universitas Islam Negeri Alauddin UIN Makassar
+      year: 2018
+
+    - title: Dr. Hamidah Abu Hasan (PH.D) Malaysia, Arabic Title - عذرية السيدة مريم عند المسيحيين وموقف الإسلام منها
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 2018
+
+    - title: Dr. Abdollah Ahmed Saeed Al-Mashari (PH.D) Oman, Arabic Title - تقويم أداء المديرية العامة للمشاريع والصيانة في ضوء معايير نموذج التميز الأوربي
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 2018
+
+    - title: Dr. Talib Mansour Al-Riyaami (PH.D) Oman, Arabic Title - الجودة الشاملة بين الإسلام والنظريات الحديثة -دراسة مقارنة-
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 2017
+
+    - title: Dr. Mohamed Homed Mohamed (PH.D) Oman, Arabic Title - التكنولوجيا المعاصرة وأثرها في تنمية الموارد البشرية في وزارة الصحة بسلطنة عمان
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 2017
+
+    - title: Dr. Mostafa Ali Bashkar (PH.D) Libya, Arabic Title - دور الفكر الإسلامي في تفويض السلطات بالإدارة العامة بليبيا
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 2016
+
+    - title: Dr. Ayman Mohamad Al-Basofi (PH.D) Libya, . Arabic Title - دور الثقافة الدينية في كيفية تطبيق الجودة الشاملة في وزارة النفط بليبيا
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 2016
+
+    - title: Dr. Ahmad Zaki Nafalen (PH.D) Thailand, . Arabic Title - الإذاعة الإسلامية وأثرها في إصلاح المجتمع -دراسة ميدانية في تيلاند-
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 2015
+
+    - title: Dr. Khalaf Salem Al-Ishaqi (PH.D) Oman, . Arabic Title - التحديات التي تواجه الإدارة الاستراتيجية في ظل المتغيرات العالمية المعاصرة وعلاجها في سلطنة
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 2015
+
+    - title: Dr. Arif Ahmed Tahir Al-Tayr (PH.D) Libya, . Arabic Title - حقوق الإنسان السياسية بين الإسلام والمواثيق الدولية وتطبيقاتها في ليبيا
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 2015
+
+    - title: Dr. Joukha Al-Hasani (PH.D) Oman, . Arabic Title - مشروعات الصغيرة ودورها في تنمية المجتع العماني
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 2011
+
+    - title: Mohamed Ramadan Ma'tuuq (Master) Libya, . Arabic Title - الإشراف التربوي في ليبيا ودوره في رفع كفاءة الأداء الوظيفي للمعلمين دراسة ميدانية بمنطقة طرابلس
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 2013
+
+    - title: Khdijah Al-Saari (Master) Libya, . Arabic Title - دور المسجد في التنشئة الإجتماعية و الوقاية من الإنحراف -دراسة ميدانية في ليبيا-
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 2012
+
+    - title: Ahmed Ghaits Ma’touq (Master) Libya, . Arabic Title - أزمة النظام السياسي الجديد في ليبيا بعد 23 أكتوبر 2011م
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 2011
+
 ###########################################################
 #6) EXAMINER OF PH. D & MASTER (THESES AND DISSERTATIONS)
 ###########################################################
-# - title: Examiner of PH. D $ Master (Theses and Dissertation)
-#   type: time_table
-#   contents:
-#     - title: PH. D (33 Dissertations)
-#       description:
-# - Dr. Ali Mohamad Dahan Al-Qabatli -Yemen- Arabic Title - أزمة المثقف اليمني وإشكالية الدور الفعال, Universiti Sultan Zainal Abidin (UniSZA), Malaysia, 07/12/2023.
-# - Dr. Mohamad Saleh Kotob -Egypt- Arabic Title:
-# الدولة الحديثة وتحدياتها السياسية لنظام الحكم الإسلامي المنشود
-# International Islamic University Malaysia (IIUM), 14/05/2022.
-# - Dr. Mohamad Pisal A. Bakar -Malaysia-, Malay Title: Analisis Swot Dakwah Nabi Ibrahim as. dan Nabi Musa as. di dalam Al-Qur’an, Universiti Islam Antarabangsa Sultan Abdul Halim Mu'adzam Shah (UniSHAMS), 03/01/2022.
-# - Dr. Tin Aung Myint – Myanmar, Arabic Title:
-# الفرق المنتسبة إلى الإسلام وتحدياتها للدعوة الإسلامية في ميانمار - الشيعة، الأحمدية، القبورية -
-# International Islamic University Malaysia (IIUM), 22/12/2021.
-# - Dr. Maafi Husin Ali Amran - Indonesia, Malay Title: Penilaian Terhadap Isu Akidah Dalam Kitab Lamadha Ikhtartu Madhhab Al-Shiah Oleh Muhammad Mar’i, Universiti Kebangsaan Malaysia (UKM), 24 Mei 2021.
-# - Dr. Khalid Mohamed Salem Al-Abdaliy- Oman, Arabi Title:
-# مصير الإنسان في اليوم الآخر بين القرآن الكريم والعهدين القديم والجديد -دراسة مقارنة-
-# International Islamic University Malaysia (IIUM), 24/01/2020.
-# - Dr. Muhammad Zaki Azani – Indonesia, Malay Title: Pemikiran Mohamad Rasjidi Tentang Islam, Modenisme dan Kristenisasi di Indonesia, Universiti Teknologi Malaysia (UTM), 04/12/2019.
-# - Dr. Nor Alfian – Malaysia, Malay Title: Pengaruh Anime Terhadap Penyelewengan Akhlak Remaja Islam di Selangor, Universiti Kebangsaan Malaysia (UKM), 15/04/2019.
-# - Dr. Mohamed Husein Mohammadi – Iran, Arabic Title:
-# موقف التوراة والأناجيل والقرآن من الإرهاب -دراسة مقارنة-
-# International Islamic University Malaysia (IIUM), 12/04/2019.
-# - Dr. Mohamed Fairooz Fathillah – Malaysia, Malay Title: Kefahaman Masyarakat Islam Tentang Doktrin dan Amalan Syiah di Malaysia, Universiti Kebangsaan Malaysia (UKM), 25/07/2018.
-# - Dr. Mohd Aizam Mas’od – Malaysia, Malay Title: Analisis Definisi Sahabat Dalam Beberapa Karya Syiah Melayu, Universiti Malaya (UM), 28/05/2018.
-# - Dr. Uthman Sulaiman Zakariyah – Nigeria, Arabic Title:
-# طبيعة المسيح عليه السلام في القرآن الكريم -دراسة تحليلية نقدية لأساليب المنصرين المعاصرة في نيجيريا
-# Universiti Malaya (UM), 01/09/20017.
-# - Dr. Sofi Goma’at Hammadi -Iraq, Arabic Title:
-# حقوق الإنسان وعلاقتها بالتنصير -دراسة مقارنة بين العراق وماليزيا
-# Universiti Kebangsaan Malaysia (UKM), 19/09/2017.
-# - Dr. Zaenab Mohamad Khalil – Libya, Arabic Title:
-# المشروع الدعوي للمرأة الليبية ودوره في الإصلاح -المعوقات وسبل العلاج-،
-# Al-Madinah International University (MEDIU), 29/09/2019.
-# - Dr. As-Sa’eid Husein Mohamed – Egypt, Arabic Title:
-# مناهج التشير بالمسيحية والدعوة للإسلام وأساليبهم
-# International Islamic University Malaysia (IIUM), 13/01/2017.
-# - Dr. Khaled Abdallah ‘Atlisy – Libya, Arabic Title:
-# تأثير التدريب على تنمية الموارد البشرية وإدارة الأزمات بالمؤسسة الوطنية للنفط الليبية
-# Universiti Sains Islam Malaysia (USIM), 08/09/2017.
-# - Dr. Hani Ali al-Balawiy -Jordan, Arabic Title:
-# الرسالة العالمية في الإسلام والمسيحية -دراسة مقارنة
-# Universiti Malaya (UM), 11/04/2017.
-# - Dr. Abdul Rahman Saleh al-Syitawi – Saudi Arabia, Arabic Title:
-# واقع الأنشطة الطلابية اللامنهجية -معوقاتها وسبل تطويرها
-# -دراسة ميدانية بكليات البريدة الأهلية، المملكة العربية السعودية-
-# Universiti Malaya (UM), 27/02/2017.
-# - Dr. Mohamed Foad Mukhtar -Malaysia, Malay Title: Ihsan Ilahi Zahir dan Kritikannya Terhadap Pemikiran Aqīdah Syiah, Universiti Malaya (UM), 21/01/2016.
-# - Dr. Mohamed al-Saed Mohamed Abdoh – Egypt, Arabic Title:
-# الأصوليون والأخباريون عند الشيعة الإثنى عشرية
-# Kolej Universiti Insania (KUIN), 23/04/2016.
-# - Dr. Ahmad Mujuhid Abdullah – Malaysia, Malay Title: Kesesuaian Kitab Barzanji Sebagai Medium Dakwah Dalam Masyarakat Melayu، د Universiti Kebangsaan Malaysia (UKM), 01/09/2016.
-# - Dr. Ishaq Abul Aziz – Indonesia, Malay Title: Pemikiran Tauhid Abu Al-Hasan Al-Asy'ari, Universiti Malaya (UM), 25/11/2016.
-# - Dr. Ahmad Azhari – Indonesia, Malay Tile: Abdul Karim Jamak Dan Pemikirannya Tentang Konsep Ketuhanan, Universiti Malaya (UM), 15/12/206.
-# - Dr. Khursan Mohamed Abdullah – Yemen, Arabic Title:
-# الصفات الإلهية بين الكشاف للزمخشري ومفاتيح الغيب للرازي
-# Universiti Malaya (UM), 28/06/2015.
-# - Dr. Abdul Qadir – Malaysia, Peranan Dan Sumbangan Haji Ismail Omar Abdul Aziz Dalam Pendidikan Dan Pentadbiran Agama Di Negeri Johor, Malaysia Dan Negara Brunai Darussalam. Universiti Kebangsaan Malaysia (UKM), 28/03/2015.
-# - Dr. Mohamad Hamidi Ismail – Malaysia, Malay Title:Konsep al-Lahihiyyat dalam Pemikiran Syiah Al-Itsna ‘Asyariah, Universiti Malaya (UM), 04/11/2015.
-# - Dr. Adisa Ibrahim – Nigeria, Arabic Title:
-# الحداثة وما بعد الحداثة عند عبد الوهاب المسيري
-# International Islamic University Malaysia (IIUM), 02/10/2014.
-# - Dr. Same Abdul Fattah – Egypt, Arabic Title:
-# جهود الشيخ الشعراوي في الدعوة الإسلامية
-# Al-Madinah International University (MEDIU), 26/09/2014.
-# - Dr. Rawus Mensari – Kamboja, Arabic Title:
-# الدعوة الإسلامية في كمبوديا ودورها في مواجهة التيارات المعادية في النصف الثاني من القرن العشرين
-# Kolej Universiti Insania (KUIN), 03/09/2014.
-# - Dr. Mahsidi Saleh – Thailand, Arabic Title:
-# منهد دراسة القضايا العقائدية في مملكة التيلندية
-# Kolej Universiti Insania (KUIN, 12/03/2014
-# - Dr. Abdul Hamed Ibrahim Sultan – Libya, Arabic Title:
-# موقف علماء النصارى المعاصرين من محمد والرد على شبهاتهم "أنيس شوروش وزكريا بطرس أنموذجا"
-# Universiti Sains Islam Malaysia, 20/09/2013.
-# - Dr. Mohamed Ubaid az-Zintani – Libya, Arabic Title:
-# آثار الهجرة الإفريقية غير الشرعية إلى أوربا على بلدان العبور – ليبيا نموذجا-،
-# Universiti Sains Islam Malaysia, 26/09/2012.
-# - Dr. Salem Al-Mabrouk Abd Al-Salam Juwedah – Libya, Arabic Title:
-# نظم المعلومات الإدارية ودورها في تطوير الإدارة العامة لمكافحة التسلل والهجرة غير الشرعية بليبيا
-# Universiti Sains Islam Malaysia, 15/06/2011.
 
 ###########################################################
 #7) INTERNATIONAL PROFESSIONAL MEMBERSHIP
