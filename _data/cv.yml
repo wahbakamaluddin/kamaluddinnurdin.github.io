@@ -345,12 +345,12 @@
 - title: Teaching Subjects and Codes
   type: time_table
   contents:
-    - year: 2023 - present
+    - year: "2023 - present"
       institution: UNISSA
-      subjects:
-        Master/Ph.D.:
+      description:
+        "Master/Ph.D.":
           - UP7308 Dirasat Istishraqiyyah
-        Degree:
+        "Degree":
           - Tauhid II (UA4319)
           - Fan Al-Khitabah (UA3312)
           - Aqidah Ahl Sunnah Wa Al-Jamaa (UA2106)
