@@ -770,9 +770,329 @@
 ###########################################################
 #10) REVIEW OF BOOKS AND ARTICLES
 ###########################################################
-- title: Membership of Editing International Peer-Reviewes Journals
+- title: Review of Books
   type: time_table
   contents:
-    - title: The Journal of Islamic Thought and Civilization (JITC)
-      institution: University of Management and Technology (UMT), Lahore, Pakistan
-      year: 2022 - Present
+
+    - title: Manhaj Imam Syafie Dalam Akidah, Jurnal Al-Shaafi’i
+      institution: , Pusat Penyelidikan Mazhab Shafi’i, Universiti Islam Sultan Sharif Ali (UNISSA) Brunei Darussalam
+      year: 2023
+      
+    - title: Gagasan Mazhab Syafie Dalam Pengembangan Islam Di Alam Melayu, Jurnal Al-Shaafi’i
+      institution: Pusat Penyelidikan Mazhab Shafi’i, Universiti Islam Sultan Sharif Ali (UNISSA) Brunei Darussalam
+      year: 2023
+
+    - title: Kedudukan Niat Dalam Muamalat Menurut Mazhab Syafi’i, Jurnal Al-Shaafi’i
+      institution: Pusat Penyelidikan Mazhab Shafi’i, Universiti Islam Sultan Sharif Ali (UNISSA) Brunei Darussalam
+      year: 2023
+
+    - title: Mazhab Syafi’i Dalam Kewangan Islam, Jurnal Al-Shaafi’i
+      institution: Pusat Penyelidikan Mazhab Shafi’i, Universiti Islam Sultan Sharif Ali (UNISSA) Brunei Darussalam
+      year: 2023
+
+    - title: The Spirituality of Hajj
+      institution: Universiti Islam Sultan Sharif Ali (UNISSA), Brunei Darussalam
+      year: 2022
+
+    - title: الإمام الشافعي -بحوث غير فقهية
+      institution: Universiti Islam Sultan Sharif Ali (UNISSA) Brunei Darussalam
+      year: 2022
+
+    - title: Sahih Bukhari (Terjemahan dan Pengajaran Hadis) Jilid 1,2,3
+      institution: Universiti Kebangsaan Malaysia (UKM)
+      year: 2017
+
+    - title: الإعلام المعاصر ما له وما عليه
+      institution:  Islamic Science University of Malaysia (USIM).
+      year: 2019
+
+    - title: Ensiklopedia Mazhab Shafiʻi Negara Brunei Darussalam, (Jilid 3 Tokoh Ulama Mazhab Shafi‘I Di Asia Tenggara), 
+      institution: Sultan Sharif Ali Islamic University (UNISSA), Brunei Darussalam.
+      year: 2017
+
+    - title: Mahakarya Sang Pencipta
+      institution: Publisher, Indonesia.
+      year: 2017
+
+    - title: Pemikiran Tasawuf dan Kehidupan Kerohanian Menurut Abu Hasan Ali al-Nadawi
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2017
+
+    - title: Halawa Al- Fathun Nawa
+      institution: Hafizul Publications, Malaysia
+      year: 2016
+
+    - title: Sahih Bukhari -Terjemahan & Fawaid
+      institution: National University of Malaysia (UKM)
+      year: 2016
+
+    - title: The Originx of the Concepts of Shiims and Sunnism
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2016
+
+    - title: Kebangkitan Semula Islam Hingga Pasca Islamisme
+      institution: National University of Malaysia (UKM).
+      year: 2016
+
+    - title: Persepsi Muallaf Terhadap Pengisian Pengislaman dan Program Pembangunan Muallaf di Malaysia
+      institution: Word Fatwa Management and Research Institute (INFAD)
+      year: 2016
+
+    - title: Ahli Sunnah wa Al-Jamaah - Kajian di Negeri Sembilan, 
+      institution: Majlis Agama Islam Negeri Sembilan (MAINS)
+      year: 2015
+
+    - title: Ensiklopedia Ulama Hadis di Bumi Anbiya'' (Hijaz, Iraq, Syam & Mesir)
+      institution:  National University of Malaysia (UKM)
+      year: 2015
+
+    - title: Modul Pemantapan Aqīdah Remaja Islam
+      institution: Yayasan Dakwah Islamiah Malaysia (YADIM) 
+      year: 2015
+
+    - title: Kefahaman Masyarakat Terhadap Ahli Sunnah
+      institution: INFAD, Universiti Sains Islam Malaysia
+      year: 2014
+
+    - title: أبو عبيد القاسم بن سلام وآرؤه الاعتقادية,
+      institution:  Seri Begawan Religious Teachers University College (KUPUSB)
+
+
+
+- title: Review of Articles
+  type: time_table
+  contents:
+    - title: Warisan Filsafat Islam di Kota Fez dan Sumbangsihnya bagi Masyarakat Indonesia, Journal of Rausyan Fikr
+      institution: Datokarama State Islamic University (UIN), Palu, Indonesia
+      year: 2023
+
+    - title: Peculiarities of Kazakhstan and Malaysia in relations between the state and Religion, Journal of Islamic Thought & Civilization’
+      institution: University of Management and Technology, Pakistan 
+      year: 2023
+
+    - title: Teologi Islam Dan Hak Asasi Manusia Dalam Pemikiran Abdullahi Ahmed An-Na’im, Journal of Rausyan Fikr
+      institution: Datokarama State Islamic University (UIN), Palu, Indonesia
+      year: 2022
+
+    - title: Perbedaan Penetapan Hari Raya Idul Adha, Mazahibuna, Jurnal Perbandingan Mazhab
+      institution: Alauddin State Islamic University (UIN) Alauddin Makassar, Indonesia
+      year: 2022
+
+    - title: Mainstreaming Policy of Religious Moderation in Community Figure Perspective in West Sulawesi, Journal of Adabiyah
+      institution: , Faculty of Adab and Humanity of Alauddin State Islamic University, Makassar, Indonesia
+      year: 2022
+
+    - title: Religious Interpretation, Well Being, and Formation of Religious Attitudes on Covid-19 Survivors, Journal of Al-Tamaddun
+      institution: University of Malaya, Malaysia
+      year: 2022
+
+    - title: Scriptural versus Substantialist Interpretation -  Implications for Religious Attitudes among Makassar City Halaqah Practitioners, Journal of Islamic Thought & Civilization’
+      institution: University of Management and Technology, Pakistan
+      year: 2022
+
+    - title: The Ruling on the Use of Salbutamol Inhaler for People Who Fast According to 'Abdul 'Azīz Ibn Bāz And Wahbah Al-Zuḥailī (a Comparative Study), IJIS Journal of Postgraduate Dirasah Islamiyah Study Program
+      institution:  Alauddin State Islamic University (UIN) Alauddin Makassar, Indonesia
+      year: 2022
+
+    - title: Membaca Al-Mustashfa Karya Imam Al-Gazali, Studi Penyelesaian Kasus Murtad Dan Kebebasan Beragama (Studi Kasus Artis di Indonesia), Journal of Rausyan Fikr
+      institution: Datokarama State Islamic University (UIN), Palu, Indonesia
+      year: 2022
+
+    - title: دور منظمة الشفافية الدولية في مكافحة الفساد وعلاقتها بليبيا, Journal of Al-Abqori
+      institution: Faculty of Leadership and Management, Universiti Sains Islam Malaysia (USIM)
+      year: 2022
+
+    - title: Analysis of the Minimum of Marriageable Age in The Perspective of Theology and Psychology, Journal of Nurani
+      institution:  Syari’ah Faculty, Raden Fatah State Islamic University (UIN), Palembang, Indonesia
+      year: 2022
+
+    - title: Interpretation of Ahlul Bait in Tafsir Al-Mishbah by Quraish Shihab - Julia Kristeva's Intertextuality Analysis Study, Journal of Mashdar
+      institution: Postgraduate Studies, Imam Bonjol State Islamic University, Padang, Indonesia
+      year: 2022
+
+    - title: Dimensi-Dimensi Islamisasi Dalam Perkembangan Ilmu Pengetahuan, Journal of Kalam
+      institution: Ushuluddin Faculty, Raden Intan State Islamic University (UIN), Lampung, Indonesia
+      year: 2022
+
+    - title: منهج السنة في المحافظة على البيئة, Journal of Adabiyah
+      institution: Faculty of Adab and Humanity of Alauddin State Islamic University, Makassar, Indonesia
+      year: 2021
+
+    - title: خطاب التراث والحداثة - دراسة جدلية بين "الأنا" "والآخر" عند المفكرين المعاصرين, Journal of Adabiyah
+      institution: Faculty of Adab and Humanity of Alauddin State Islamic University, Makassar, Indonesia
+      year: 2021
+
+    - title: الظاهرة الحوثية والتحول الفكري من الزيدية إلى التشيع, al-Qanatir International Journal of Islamic Study
+      institution:
+      year: 2021
+
+    - title: The Concept of 'Ana' According to Badiuzaman Said Nursi and Contemporary, Journal of Kalam
+      institution: Ushuluddin Faculty, Raden Intan State Islamic University (UIN), Lampung, Indonesia
+      year: 2021
+
+    - title: فلسفة الوجودية الصوفية؛ أصلها الديني وموقف العلماء منها, Journal of Adabiyah
+      institution: Faculty of Adab and Humanity of Alauddin State Islamic University, Makassar, Indonesia
+      year: 2020
+
+    - title: Disorientasi Seksual dari Perspektif Psikologi dan Agama Islam - Lesbian, Gay, Biseksual dan Transgender, Journal of al-Hikmah
+      institution: Ushuluddin Faculty, State Islamic University (UIN), Pontianak, Indonesia
+      year: 2020
+
+    - title: الجهـاد بين الدعوة و القتــال, Journal of Adabiyah
+      institution: , Faculty of Adab and Humanity of Alauddin State Islamic University, Makassar, Indonesia
+      year: 2020
+
+    - title: Dinamika Perubahan Interpretasi Berkaitan Hukum dan Hukuman Homoseksualiti dalam Agama Kristian - Satu Tinjauan Awal, Perdana journal,International Journal of Academic Research
+      year: 2020
+
+    - title: الخط العربي وانتشاره في الشرق والغرب, Journal of Adabiyah
+      institution: , Faculty of Adab and Humanity of Alauddin State Islamic University, Makassar, Indonesia
+      year: 2020
+
+    - title: Political-Religious Violence in Pakistan: Interface of Religion and Geopolitics in a Modern Islamic State, Journal of Kalam
+      institution: Ushuluddin Faculty, Raden Intan State Islamic University (UIN), Lampung, Indonesia
+      year: 2019
+
+    - title: Persepsi Golongan Syiah Terhadap Akhlak Ahli Sunah Waljamaah di Kedah, The Journal of Humanities and Social Sciences (JSASS)
+      institution: Selangor International Islamic University College (KUIS)
+      year: 2019
+
+    - title: Al- Maududi on Islam as Basic in Individual and State Life. (Thought and Modernization Effort), Journal of Ulum Islamiyyah (UIJ)
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2019
+
+    - title: Islamic Education in Indonesia - Study of Azyumardi Azra's Thought, Journal of Ulum Islamiyyah (UIJ)
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2018
+
+    - title: Manusia dalam Pandangan Marxisme dan Islam", Journal of Kalam
+      institution: Ushuluddin Faculty, Raden Intan State Islamic University (UIN), Lampung, Indonesia
+      year: 2018
+
+    - title: Shia Imamiyah Ithsna'asyariah - The Beginning of its Entry and its Spreading Process in Malaysia, Journal of Hadhari
+      institution: National University of Malaysia (UKM)
+      year: 2018
+
+    - title: Arabic for Islamic Sciences: Needs and its Authentic, Journal of Abqari
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2018
+
+    - title: التشيع في ماليزيا - مراجعة أولية Jurnal at-Tajdid,
+      institution: International Islamic University of Malaysia (IIUM)
+      year: 2018
+
+    - title: نمط الدعوة في إندونيسيا وتحدياتها, Journal of Abqari
+      institution: Islamic Science University of Malaysia (USIM), 2018
+      year: 2018
+
+    - title: Sorotan Perkembangan Hubungan Gerakan Syiah di Malaysia - Penilaian Menerusi Facebook. Jurnal Pengajian Islam (JPI)
+      institution: International Islamic University College (KUIS)
+      year: 2018
+
+    - title: مفهوم الدولة الإسلامية في فكر رشيد رضا من خلال تفسيرها المنار – الدولة العثمانية أنموذجا -, Journal of Abqari
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2017
+
+    - title: Pelaksanaan Tugasan Dialog dengan Kumpulan Syiah dan Murtad Menerusi Facebook, Journal of Abqari
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2017
+
+    - title: توحيد صف المسلمين وحكم الاختلاف في أصول العقيدة وفروعها, Journal for Islamic Studies (MJIS)
+      institution:  Sultan Zainal Abidin University
+      year: 2017
+
+    - title: An Exploratory Study on Muslim Counselor Educators’ Perceptions of Student Plagiarism, Journal of Abqari
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2016
+
+    - title: تحديات علماء إندونيسيا الكلاسيكيين في مواجهة التيارات الليبرالية, Journal of Abqari
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2016
+
+    - title: Ketokohan Mirza Basyiruddin Mahmud Ahmad Dalam Kalangan Jemaat Ahmadiyah Qadiani, Journal of Ulum Islamiyyah (UIJ)
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2016
+
+    - title: Manuskrip al-Jawharah al-Munīfah - Pengenalan dan Analisis Pemikiran Aqīdah daripada Jalur al-Māturidiyyah, Journal of Ulum Islamiyyah (UIJ)
+      institution:  Islamic Science University of Malaysia (USIM)
+      year: 2016
+
+    - title: Analisis Mantik dalam Mi'yar al-Ilmi fi Fann al-Mantiq, Journal of Hadhari
+      institution: National University of Malaysia (UKM)
+      year: 2016
+
+    - title: Kefahaman Masyarakat Terhadap Ahli Sunnah wal Jama'ah di Negeri Sembilan, Journal of Word Fatwa Management and Research Institute (INFAD)
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2016
+
+    - title: Wahdatul Wujud dan Kewalian Menurut Said Nursi Menerusi Karyanya Risale al Nur (Anwar Al-Hakikat), Journal of Hadhari
+      institution: National University of Malaysia (UKM)
+      year: 2015
+
+    - title: Saudara Baru Islam, Journal of Word Fatwa Management and Research Institute (INFAD)
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2015
+
+    - title: علاقة الذات بالصفات الإلهية في فكر محي الدين بن عربي Journal of Abqari
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2015
+
+    - title: The Issues of Churches and Temples in the Modern Era, Journal of Hadhari
+      institution: National University of Malaysia (UKM)
+      year: 2015
+
+    - title: الشيعة وأثرها في العالم الإسلامي Journal of Ulum Islamiyyah (UIJ)
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2015
+
+    - title: Isu Anthropomorphisme - Dilema antara Keharmonian Manhaj Salaf dan Populariti Alirah Khalaf, Journal of al-Qanatir
+      institution:
+      year: 2015
+
+    - title: The Issues of Churches and Temples in the Modern Era. Journal of Hadhari
+      institution: National University of Malaysia (UKM)
+      year: 2015
+
+    - title: Penerbitan Kamus Dwibahasa Arab di Malaysia, Journal of Ulum Islamiyyah (UIJ)
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2015
+
+    - title: Penerbitan Kamus Dwibahasa Arab di Malaysia, Journal of Ulum Islamiyah (UIJ)
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2014
+
+    - title: تمكين المستضعفين في الأرض –عواملها وتحدياتها-, Jorrnal of Ulum Islamiyyah (UIJ)
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2014
+
+    - title: Mosque as a Centre of Eduacation for Women – Study in Jamek Manjak, Syria-.  Voice of Academia Journal.
+      institution:  Universiti Tekonologi Mara, Kedah
+      year: 2013
+
+    - title: Pengaruh Orientalism Dalam Gerakan Anti Hadis di Malaysia, Jurnal Kefahaman Ahli Sunnah wal Jama'ah
+      institution: Seri Begawan Religious Teachers University College (KUPUSB)
+      year: 2011
+
+    - title: Paradigma Tauhid Dalam Pembangunan Berteraskan Islam, 2012, Jurnal Kefahaman Ahli Sunnah wal Jama'ah
+      institution: Seri Begawan Religious Teachers University College (KUPUSB)
+      year: 2011
+
+    - title: Ahlussunnah wa Al-Jamaah Versus Salafiah Dalam Masalah FuruiIyyah, Jurnal Kefahaman Ahli Sunnah wal Jama'ah
+      institution: , Seri Begawan Religious Teachers University College (KUPUSB)
+      year: 2011
+
+    - title: حرية الإعتقاد في الإسلام مقارنا بقوانين حقوق الإنسان الدولي. Journal of Ulum Islamiyyah (UIJ)
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2011
+
+    - title: Perbahasan Mengenai Sifat-Sifat Allah - Analissi Pemikiran Tuan Minal. Journal of Ulum Islamiyyah (UIJ)
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2011
+
+    - title: تأثير فلسفة الأفلاطون في علم الكلام Journal of Ulum Islamiyyah (UIJ)
+      institution: . Islamic Science University of Malaysia (USIM)
+      year: 2011
+
+    - title: الرقابة المالية في المجتمع الإسلامي. Journal of Ulum Islamiyyah (UIJ)
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2011
