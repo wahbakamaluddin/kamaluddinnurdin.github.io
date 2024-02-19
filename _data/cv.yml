@@ -345,36 +345,37 @@
 - title: Teaching Subjects and Codes
   type: time_table
   contents:
-    - institution: UNISSA
-      year: 2023 - present
-      description:
-        - UP7308 Dirasat Istishraqiyyah - Master/ Ph.D.
-        - Tauhid II (UA4319) - Degree
-        - Fan Al-Khitabah (UA3312) - Degree
-        - Aqidah Ahl Sunnah Wa Al-Jamaa (UA2106) - Degree
-
-- title: Teaching Subjects and Codes
-  type: time_table
-  contents:
-    - institution: USIM
-      year: 2007 - 2023
-      description:
-        - Aqīdah Ahli Sunnah wal Jama'ah Methodology (ADA8013) - Master/ Ph.D. 
-        - Contemporary Religious (AAQ8053) - Master/ Ph.D.
-        - Dissertation (AAQ8409) - Master/ Ph.D.
-        - Akhlaq and Sufism (AAA2022) - Degree
-        - Al-Firaq Al-Islamiyyah (AAD3043) - Degree
-        - Al-Milal wa Al-Nihal (AAC3023) - Degree
-        - Al-Qiyadah wa Al-Imamah (AAD2123) - Degree
-        - Contemporary Islamic Thought (AAA2012) - Degree
-        - Contemporary Missionary Movements (AAD3123) - Degree
-        - Halaqah Studies (UTA1051) - Degree
-        - Ilahiyyat wa Nubuwwat (ADA2013) - Degree
-        - Islamic Aqīdah (AAA1012) - Degree
-        - Islamic Work Ethics (AAM3053) - Degree
-        - Mantiq (ADA3063) - Degree
-        - Metaphysical and Imamate (ADA2023 - Degree)
-        - Orientalists' Perceptions of Islam (AAD3153) - Degree
-        - Principles and Practices of Da'wah Communication (AAA1043) - Degree
-        - Public Speaking (UTA2051) - Degree
-        - Texts of Aqidah (ADA3073) - Degree
+    - year: 2023 - present
+      institution: UNISSA
+      subjects:
+        Master/Ph.D.:
+          - UP7308 Dirasat Istishraqiyyah
+        Degree:
+          - Tauhid II (UA4319)
+          - Fan Al-Khitabah (UA3312)
+          - Aqidah Ahl Sunnah Wa Al-Jamaa (UA2106)
+# - title: Teaching Subjects and Codes
+#   type: time_table
+#   contents:
+#     - institution: USIM
+#       year: 2007 - 2023
+#       description:
+#         - Aqīdah Ahli Sunnah wal Jama'ah Methodology (ADA8013) - Master/ Ph.D.
+#         - Contemporary Religious (AAQ8053) - Master/ Ph.D.
+#         - Dissertation (AAQ8409) - Master/ Ph.D.
+#         - Akhlaq and Sufism (AAA2022) - Degree
+#         - Al-Firaq Al-Islamiyyah (AAD3043) - Degree
+#         - Al-Milal wa Al-Nihal (AAC3023) - Degree
+#         - Al-Qiyadah wa Al-Imamah (AAD2123) - Degree
+#         - Contemporary Islamic Thought (AAA2012) - Degree
+#         - Contemporary Missionary Movements (AAD3123) - Degree
+#         - Halaqah Studies (UTA1051) - Degree
+#         - Ilahiyyat wa Nubuwwat (ADA2013) - Degree
+#         - Islamic Aqīdah (AAA1012) - Degree
+#         - Islamic Work Ethics (AAM3053) - Degree
+#         - Mantiq (ADA3063) - Degree
+#         - Metaphysical and Imamate (ADA2023 - Degree)
+#         - Orientalists' Perceptions of Islam (AAD3153) - Degree
+#         - Principles and Practices of Da'wah Communication (AAA1043) - Degree
+#         - Public Speaking (UTA2051) - Degree
+#         - Texts of Aqidah (ADA3073) - Degree
