@@ -2,7 +2,7 @@
 #1)EDUCATION
 #############################
 - title: Education
-  type: list
+  type: Education
   contents:
     - title: PhD in Islamic Philosophy
       institution: Faculty of Dar Olūm, Cairo University, Egypt
