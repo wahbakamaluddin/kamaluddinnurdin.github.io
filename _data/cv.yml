@@ -1,25 +1,6 @@
-- title: Academic Career
-  type: time_table
-  contents:
-    - title: Profesor Madya
-      institution: Universiti Islam Sultan Sharif Ali (UNISSA)
-      year: 2023 - present
-      description: Head of Postgraduate Programme, Faculty of Usuluddin (FOU)
-
-    - title: Profesor Madya
-      institution: Universiti Sains Islam Malaysia (USIM)
-      year: 2007 - 2023
-      description:
-        - Head of Programme, Da'wah and Islamic Management, Faculty of Leadership and Management (FKP)
-        - Head of Programme, Aqidah and Religion Study, Faculty of Leadership and Management (FKP)
-
-    - title: Visiting Professor
-      institution: Académie Européenne des Cultures Et Des Savoirs Islamiquesues (AECSI), Paris - France
-      year: 2021
-
-    - title: Visiting Professor
-      institution: Universiti Kebangsaan Malaysia (UKM)
-      year: 2016
+#############################
+#1)EDUCATION
+#############################
 
 - title: Education
   type: time_table
@@ -46,6 +27,185 @@
       description:
         - Grade - "Good"
 
+#############################
+#2)ACADEMIC CAREER
+#############################
+
+- title: Academic Career
+  type: time_table
+  contents:
+    - title: Profesor Madya
+      institution: Universiti Islam Sultan Sharif Ali (UNISSA)
+      year: 2023 - present
+      description: Head of Postgraduate Programme, Faculty of Usuluddin (FOU)
+
+    - title: Profesor Madya
+      institution: Universiti Sains Islam Malaysia (USIM)
+      year: 2007 - 2023
+      description:
+        - Head of Programme, Da'wah and Islamic Management, Faculty of Leadership and Management (FKP)
+        - Head of Programme, Aqidah and Religion Study, Faculty of Leadership and Management (FKP)
+
+    - title: Visiting Professor
+      institution: Académie Européenne des Cultures Et Des Savoirs Islamiquesues (AECSI), Paris - France
+      year: 2021
+
+    - title: Visiting Professor
+      institution: Universiti Kebangsaan Malaysia (UKM)
+      year: 2016
+
+#############################
+#3)AWARDS
+#############################
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: University Awards (USIM)
+      items:
+        - 2009, Best Books, Category of Social Science
+        - 2009, Excellent Lecturer
+        - 2012, Active Author in Arabic Language
+        - 2015, Excellent Lecturers
+
+    - title: Faculty Awards (USIM)
+      items:
+        - 2013 Excellent Lecturer
+        - 2013, Original Book (Arabic Language)
+        - 2014, Original Book (Arabic Language)
+        - 2014, Good employee
+        - 2015, Excellent Lecturers
+        - 2017, Good employee
+        - 2018, Good employee
+
+#############################
+#4)TEACHING SUBJECTS
+#############################
+
+- title: Teaching Subjects and Codes
+  type: time_table
+  contents:
+    - year: 2023 - present
+      institution: UNISSA
+      description:
+        - title: Master/Ph.D
+          contents:
+            - UP7308 Dirasat Istishraqiyyah
+
+        - title: Degree
+          contents:
+            - Tauhid II (UA4319)
+            - Fan Al-Khitabah (UA3312)
+            - Aqidah Ahl Sunnah Wa Al-Jamaa (UA2106)
+
+    - institution: USIM
+      year: 2007 - 2023
+      description:
+        - title: Master/Ph.D
+          contents:
+            - Aqīdah Ahli Sunnah wal Jama'ah Methodology (ADA8013)
+            - Contemporary Religious (AAQ8053)
+            - Dissertation (AAQ8409)
+
+        - title: Degree
+          contents:
+            - Akhlaq and Sufism (AAA2022)
+            - Al-Firaq Al-Islamiyyah (AAD3043)
+            - Al-Milal wa Al-Nihal (AAC3023)
+            - Al-Qiyadah wa Al-Imamah (AAD2123)
+            - Contemporary Islamic Thought (AAA2012)
+            - Contemporary Missionary Movements (AAD3123)
+            - Halaqah Studies (UTA1051)
+            - Ilahiyyat wa Nubuwwat (ADA2013)
+            - Islamic Aqīdah (AAA1012)
+            - Islamic Work Ethics (AAM3053)
+            - Mantiq (ADA3063)
+            - Metaphysical and Imamate (ADA2023)
+            - Orientalists' Perceptions of Islam (AAD3153)
+            - Principles and Practices of Da'wah Communication (AAA1043)
+            - Public Speaking (UTA2051)
+            - Texts of Aqidah (ADA3073)
+
+#############################
+#4)RESEARCH PROJECT
+#############################
+- title: Research Projects
+  type: time_table
+  contents:
+    - title: Mekanisme Pencegahan Ideologi Salafi-Jihadi Berpandukan Pendekatan Universiti Al-Azhar, FRGS/1/2020/SS03/USIM/02/1
+      institution:
+      year: 2021
+      description:
+        - Grant Amount - RM 50,000
+
+    - title: Understanding the Ideology of Radicalism and Violent Extremism in Malaysia for Counter Narrative Framework. 05/03/ 2018 – 05/03/
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2020
+      description:
+
+    - title: Understanding the Ideology of Radicalism and Violent Extremism in Malaysia for Counter Narrative Framework. USIM. PPPI/FSU/0217/051000/12618
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2018
+      description:
+        - Grant Amount - RM 30,000
+
+    - title: Developing a Model for Islamic Televangelism Programs in Malaysia (RAGS)
+      institution: Ministry of Higher Education Malaysia.
+      year: 2017
+      description:
+        - Grant Amount - RM 28,000
+
+    - title: Pembinaan Alat Ujian Saringan Kakitangan (USK) di USIM. 01/06/2016-01/06/2017
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2016
+      description:
+        - Grant Amount - RM 5,000
+
+    - title: Developing a PhD preparation training model for academic staff in public sector in Malaysia (FRGS)
+      institution: Ministry of Higher Education Malaysia
+      year: 2015
+      description:
+        - Grant Amount - RM 50,000
+
+    - title: Model Istitabah Murtad di Malaysia (FRGS)
+      institution: Ministry of Higher Education Malaysia
+      year: 2014
+      description:
+        - Grant Amount - RM 50,000
+
+    - title: USIM-Bank Rakyat Mizan and Malay Muslim Kampung Model.
+      institution: Bank Rakyat
+      year: 2014
+      description:
+
+    - title: Ke Arah Pembentukan Model Komunikasi Islam Berasaskan Al Qur’an (FRGS)
+      institution: Ministry of Higher Education Malaysia
+      year: 2014
+      description:
+        - Grant Amount - RM 49,500
+
+    - title: Kajian Pendekatan Pembersihan Jiwa (Tazkiyyah Al-Nafs) Tariqah Mu'tabarah Di Negeri Sembilan
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2009
+      description:
+        - Grant Amount - RM 15,000
+
+    - title: Pengeluaran Fatwa Di Negeri Selangor Dan Negeri Sembilan
+      institution: Islamic Science University of Malaysia (USIM)
+      year: 2009
+      description:
+        - Grant Amount - RM 15,000
+
+###########################################################
+#5) SUPERVISION OF PH.D AND MASTER THESES AND DISSERTATIONS
+###########################################################
+
+###########################################################
+#6) EXAMINER OF PH. D & MASTER (THESES AND DISSERTATIONS)
+###########################################################
+
+###########################################################
+#7) INTERNATIONAL PROFESSIONAL MEMBERSHIP
+###########################################################
 - title: International Professional Membership
   type: time_table
   contents:
@@ -73,25 +233,21 @@
       description:
         - Member
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - title: University Awards (USIM)
-      items:
-        - 2009, Best Books, Category of Social Science
-        - 2009, Excellent Lecturer
-        - 2012, Active Author in Arabic Language
-        - 2015, Excellent Lecturers
+###########################################################
+#8) MEMBERSHIP OF EDITING INTERNATIONAL PEER-REVIEWED JOURNALS
+###########################################################
 
-    - title: Faculty Awards (USIM)
-      items:
-        - 2013 Excellent Lecturer
-        - 2013, Original Book (Arabic Language)
-        - 2014, Original Book (Arabic Language)
-        - 2014, Good employee
-        - 2015, Excellent Lecturers
-        - 2017, Good employee
-        - 2018, Good employee
+###########################################################
+#9) ACADEMIC CONFERENCES AND SEMINARS
+###########################################################
+
+###########################################################
+#10) REVIEW OF BOOKS AND ARTICLES
+###########################################################
+
+###########################################################
+#9) ACADEMIC CONFERENCES AND SEMINARS
+###########################################################
 
 - title: Academic Conferences and Seminars
   type: time_table
@@ -341,47 +497,3 @@
       year: 09/8/2012
       description:
         - Invited Speaker
-
-- title: Teaching Subjects and Codes
-  type: time_table
-  contents:
-    - year: 2023 - present
-      institution: UNISSA
-      description:
-        - title: Master/Ph.D
-          contents:
-            - UP7308 Dirasat Istishraqiyyah
-
-        - title: Degree
-          contents:
-            - Tauhid II (UA4319)
-            - Fan Al-Khitabah (UA3312)
-            - Aqidah Ahl Sunnah Wa Al-Jamaa (UA2106)
-
-    - institution: USIM
-      year: 2007 - 2023
-      description:
-        - title: Master/Ph.D
-          contents:
-            - Aqīdah Ahli Sunnah wal Jama'ah Methodology (ADA8013)
-            - Contemporary Religious (AAQ8053)
-            - Dissertation (AAQ8409)
-
-        - title: Degree
-          contents:
-            - Akhlaq and Sufism (AAA2022)
-            - Al-Firaq Al-Islamiyyah (AAD3043)
-            - Al-Milal wa Al-Nihal (AAC3023)
-            - Al-Qiyadah wa Al-Imamah (AAD2123)
-            - Contemporary Islamic Thought (AAA2012)
-            - Contemporary Missionary Movements (AAD3123)
-            - Halaqah Studies (UTA1051)
-            - Ilahiyyat wa Nubuwwat (ADA2013)
-            - Islamic Aqīdah (AAA1012)
-            - Islamic Work Ethics (AAM3053)
-            - Mantiq (ADA3063)
-            - Metaphysical and Imamate (ADA2023)
-            - Orientalists' Perceptions of Islam (AAD3153)
-            - Principles and Practices of Da'wah Communication (AAA1043)
-            - Public Speaking (UTA2051)
-            - Texts of Aqidah (ADA3073)
