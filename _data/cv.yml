@@ -2,7 +2,7 @@
 #1)EDUCATION
 #############################
 - title: Education
-  type: time_table
+  type: list
   contents:
     - title: PhD in Islamic Philosophy
       institution: Faculty of Dar Olūm, Cairo University, Egypt
@@ -516,10 +516,6 @@
       institution: Islamic Science University of Malaysia (USIM)
       year: 2012
 
-    - title:
-      institution:
-      year:
-
 ###########################################################
 #9) ACADEMIC CONFERENCES AND SEMINARS
 ###########################################################
@@ -774,4 +770,9 @@
 ###########################################################
 #10) REVIEW OF BOOKS AND ARTICLES
 ###########################################################
-
+- title: Membership of Editing International Peer-Reviewes Journals
+  type: time_table
+  contents:
+    - title: The Journal of Islamic Thought and Civilization (JITC)
+      institution: University of Management and Technology (UMT), Lahore, Pakistan
+      year: 2022 - Present
