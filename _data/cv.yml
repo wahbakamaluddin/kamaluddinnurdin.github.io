@@ -2,7 +2,7 @@
 #1)EDUCATION
 #############################
 - title: Education
-  type: Education
+  type: time_table
   contents:
     - title: PhD in Islamic Philosophy
       institution: Faculty of Dar Olūm, Cairo University, Egypt
@@ -1075,7 +1075,7 @@
       year: 2011
 
     - title: Ahlussunnah wa Al-Jamaah Versus Salafiah Dalam Masalah FuruiIyyah, Jurnal Kefahaman Ahli Sunnah wal Jama'ah
-      institution: , Seri Begawan Religious Teachers University College (KUPUSB)
+      institution: Seri Begawan Religious Teachers University College (KUPUSB)
       year: 2011
 
     - title: حرية الإعتقاد في الإسلام مقارنا بقوانين حقوق الإنسان الدولي. Journal of Ulum Islamiyyah (UIJ)
