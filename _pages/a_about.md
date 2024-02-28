@@ -46,7 +46,7 @@ The books are collected by various universities in the world:
 - [National Institute of Informatics, Japan](https://ci.nii.ac.jp/ncid/BA85086063.amp)
 - [Salim Abdullah Al Humaid Public Islamic Univerisity, UAE](http://salemlib.dyndns-web.com:8000/cgi-bin/koha/opac-detail.pl?biblionumber=21475)
 - [The Emirates Centre for Strategic Studies and Research, UAE](https://library.ecssr.ae/cgi-bin/koha/opac-detail.pl?biblionumber=191492&shelfbrowse_itemnumber=305369#holdings)
-- [National Library of UA, UAE](https://library.dctabudhabi.ae/sirsi/detail/1211641)
+- [National Library of UAE, UAE](https://library.dctabudhabi.ae/sirsi/detail/1211641)
 - [Iran Library, Iran](https://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=2345823&pageStatus=0&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)
 - [Iran Library, Iran](http://www.lib.ir/book/65457645/%D9%85%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D8%AF-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D8%B1%D8%B7%D8%A8%DB%8C-%D8%AA-%DB%B6%DB%B7%DB%B1%D9%87%D9%80/)
 - [Cairo University, Egypt](https://alkindi.ideo-cairo.org/manifestation/113895)
