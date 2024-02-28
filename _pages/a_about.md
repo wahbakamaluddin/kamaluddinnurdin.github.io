@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Is a Profesor Madya at Faculty of Usuluddin, Universiti Islam Sultan Sharif Ali (UNISSA), was born on 11 june, 1973 in Soppeng, Sulawesi Selatan, Indonesia, he received his Ph.D in Akidah and Islamic Philosophy from the University of Cairo. Kamal is the author of Al-ʻAqīdah al-Islāmīyah wa-Al-Qadāyā al-Khilāfīyah ʻinda ʻUlamāʼ al-Kalām, published by Dār al-Kutub al-ʻIlmīyah, Beirūt, Lebanon.
+Is a Profesor Madya and Head of Postgraduate Programme at Faculty of Usuluddin, Universiti Islam Sultan Sharif Ali (UNISSA), was born on 11 june, 1973 in Soppeng, Sulawesi Selatan, Indonesia, he received his Ph.D in Akidah and Islamic Philosophy from the University of Cairo. Kamal is the author of Al-ʻAqīdah al-Islāmīyah wa-Al-Qadāyā al-Khilāfīyah ʻinda ʻUlamāʼ al-Kalām, published by Dār al-Kutub al-ʻIlmīyah, Beirūt, Lebanon.
 
 He was appointed as a Keynote and Invited Speaker for International Seminar, at Marmara University, Istanbul Turkiye, Çanakkale Onsekiz Mart University, Turkiye, International Islamic Academy of Uzbekistan, and some universities in Malaysia, Indonesia and Brunei Darussalam. He had become a supervisor for 3 Master and 15 Ph.D (Graduated), and External Examiner for 5 Master and 38 Ph.D. Currently has written [18 books](https://kamaluddinnurdin.github.io/publications/) in Arabic and Malay languages, and published in various countries such as Beirut-Lebanon, Cairo-Egypt, Abud Dhabi-UEA, Malaysia, Indonesia and Brunei Darussalam.
 
