@@ -1,12 +1,12 @@
 ---
 layout: default
 permalink: /blog/
-title: Conferences & Seminars
+title: Blog
 nav: true
 nav_order: 1
 pagination:
   enabled: true
-  collection: posts1
+  collection: post
   permalink: /page/:num/
   per_page: 5
   sort_field: date
