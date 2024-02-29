@@ -2,6 +2,7 @@
 layout: distill
 title: PENGENALAN MAQASID AKIDAH
 description:
+categories: article
 tags: distill formatting
 date: 2021-05-22
 featured: true
@@ -52,7 +53,8 @@ Maqasid akidah tidak dapat dicapai kecuali dengan menganalisa maqasid al-khitab,
 
 - Pertama: Aspek Lafaz (teks asal), atau bahasa yang dikenal dengan arti tersurat dan nyata menurut kamus bahasa Arab. Aspek lafaz ini terkadang memiliki maksud yang berbeda dari yang dikehendaki oleh teks.
 - Kedua: Aspek Ma’na (maksud lafaz), yaitu arti yang tersirat dari dalil itu yang sebenarnya dikehendaki oleh teks.
-  Imam Ghazali menegaskan hal ini dalam kitabnya “Al-Arba’in fi Usuliddin” bahwa seseorang ketika mengkaji persoalan-persoalan akidah dituntut untuk memiliki penghayatan yang optimal, sehingga ia mendapatkan keyakinan yang penuh tentang kebenaran akidah. Terdapat dua kategori manusia dalam mempelajari akidah, pertama: ia menggali argumentasi akidah tanpa menyelami rahasia-rahasianya, kedua: ia menggali rahasia-rahasia, inti makna dan hakikat yang tersirat disebaliknya” . Sebagai contoh, ketika membicarakan ayat-ayat sifat yang sering dipertikaikan dalam surah al-Fath, ayat: 10, yaitu persoalan maksud tangan Allah Swt “ يَدُ اللّٰهِ فَوْقَ اَيْدِيْهِم ”. Secara Zahir dengan merujuk kepada kamus bahasa Arab, ayat ini diartikan: “Tangan Allah di atas tangan mereka”. Namun tatkala digali maknanya lebih jauh dan mendalam serta melihatnya dari aspek maqasid akidah, maka tentunya arti atau makna yang sebenarnya adalah “Kekuasaan Allah di atas kekuasaan mereka” .
+
+Imam Ghazali menegaskan hal ini dalam kitabnya “Al-Arba’in fi Usuliddin” bahwa seseorang ketika mengkaji persoalan-persoalan akidah dituntut untuk memiliki penghayatan yang optimal, sehingga ia mendapatkan keyakinan yang penuh tentang kebenaran akidah. Terdapat dua kategori manusia dalam mempelajari akidah, pertama: ia menggali argumentasi akidah tanpa menyelami rahasia-rahasianya, kedua: ia menggali rahasia-rahasia, inti makna dan hakikat yang tersirat disebaliknya” . Sebagai contoh, ketika membicarakan ayat-ayat sifat yang sering dipertikaikan dalam surah al-Fath, ayat: 10, yaitu persoalan maksud tangan Allah Swt “ يَدُ اللّٰهِ فَوْقَ اَيْدِيْهِم ”. Secara Zahir dengan merujuk kepada kamus bahasa Arab, ayat ini diartikan: “Tangan Allah di atas tangan mereka”. Namun tatkala digali maknanya lebih jauh dan mendalam serta melihatnya dari aspek maqasid akidah, maka tentunya arti atau makna yang sebenarnya adalah “Kekuasaan Allah di atas kekuasaan mereka” .
 
 Dalam metode lain, ayat Al-Quran yang membicarakan berbagai permasalahan memiliki bermacam cara dalam penyampaian makna. Dari aspek gaya bahasa al-Qur`an (Usluub al-Khitab) di antaranya menggunakan metode al-Haqiqah wa al-Majaz . Dengan memahami majaz (metaphor), seseorang dapat mengidentifkasi makna tersebut secara jelas melalui kaedah Ta’wil, contohnya seperti ayat berikut:
 قَالَ يَٰٓإِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَىَّ ۖ أَسْتَكْبَرْتَ أَمْ كُنتَ مِنَ ٱلْعَالِينَ
