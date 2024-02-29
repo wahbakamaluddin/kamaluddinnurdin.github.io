@@ -37,7 +37,7 @@ The books are collected by various universities in the world:
 - [Library of Congress, USA](https://catalog.loc.gov/vwebv/holdingsInfo?searchId=15585&recCount=25&recPointer=3&bibId=15626500)
 - [Princeton University, USA](https://catalog.princeton.edu/catalog?utf8=%E2%9C%93&search_field=all_fields&q=Marju%CC%84ni%CC%84%2C%20Kama%CC%84l%20al-Di%CC%84n%20Nu%CC%84r%20al-Di%CC%84n)
 - [University of Chicago, USA](https://catalog.lib.uchicago.edu/vufind/Search/Results?type=AuthorBrowse&lookfor=%22Marju%CC%84ni%CC%84%2C%20Kama%CC%84l%20al-Di%CC%84n%20Nu%CC%84r%20al-Di%CC%84n%22)
-- [Unievrsity of Toronto, Canada](https://librarysearch.library.utoronto.ca/discovery/search?query=any,contains,Marj%C5%ABn%C4%AB,%20Kam%C4%81l%20al-D%C4%ABn%20N%C5%ABr%20al-D%C4%ABn&tab=LibraryCatalog&search_scope=UTL&vid=01UTORONTO_INST:UTORONTO&offset=0)
+- [University of Toronto, Canada](https://librarysearch.library.utoronto.ca/discovery/search?query=any,contains,Marj%C5%ABn%C4%AB,%20Kam%C4%81l%20al-D%C4%ABn%20N%C5%ABr%20al-D%C4%ABn&tab=LibraryCatalog&search_scope=UTL&vid=01UTORONTO_INST:UTORONTO&offset=0)
 - [The British Library, UK](https://ezborrow.reshare.indexdata.com/Author/Home?author=Marju%CC%84ni%CC%84%2C+Kama%CC%84l+al-Di%CC%84n+Nu%CC%84r+al-Di%CC%84n)
 - [Institute of Ismaili Studies, Aga Khan Library, UK](https://eds.p.ebscohost.com/eds/results?vid=1&sid=66a80158-ca6a-4661-b2a4-9b65788c77cf%40redis&bquery=kamal+al-din+nur+al-din&bdata=JmNsaTA9RlQxJmNsdjA9WSZ0eXBlPTAmc2VhcmNoTW9kZT1BbmQmc2l0ZT1lZHMtbGl2ZQ%3d%3d)
 - [Giorgio La Pira library, Italy](https://lapira.diamond-ils.org/manifestation/243644)
