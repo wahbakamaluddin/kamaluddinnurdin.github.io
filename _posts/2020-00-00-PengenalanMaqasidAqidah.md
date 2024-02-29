@@ -3,7 +3,6 @@ layout: distill
 title: PENGENALAN MAQASID AKIDAH
 description:
 categories: article
-tags: distill formatting
 date: 2021-05-22
 featured:
 
