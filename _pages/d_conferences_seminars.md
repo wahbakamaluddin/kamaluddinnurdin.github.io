@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conferences & Seminars
-permalink: /projects/
+permalink: /Conferences&Seminars/
 description:
 nav: true
 nav_order: 3
