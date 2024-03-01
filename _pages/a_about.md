@@ -17,11 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<div style="font-size: 1rem; text-decoration: underline;">
+<div style="font-size: 1.5rem; text-decoration: underline;">
 Short Biodata
 </div>
 
-Is a Profesor Madya and Head of Postgraduate Programme at Faculty of Usuluddin, Universiti Islam Sultan Sharif Ali (UNISSA). He was a Profesor Madya at Faculty of Leadership and Management, Universiti Sains Islam Malaysia (USIM), 2007-2023; a Visiting Professor at Académie Européenne des Cultures Et Des Savoirs Islamiquesues (AECSI), Paris - France, 2021; and at Universiti Kebangsaan Malaysia (UKM), 2016. He was born on 11 june, 1973 in Soppeng, Sulawesi Selatan, Indonesia, he received his Ph.D in Akidah and Islamic Philosophy from the University of Cairo. Kamal is the author of Al-ʻAqīdah al-Islāmīyah wa-Al-Qadāyā al-Khilāfīyah ʻinda ʻUlamāʼ al-Kalām, published by Dār al-Kutub al-ʻIlmīyah, Beirūt, Lebanon.
+Kamaluddin Nurdin Marjuni is a Profesor Madya and Head of Postgraduate Programme at Faculty of Usuluddin, Universiti Islam Sultan Sharif Ali (UNISSA). He was a Profesor Madya at Faculty of Leadership and Management, Universiti Sains Islam Malaysia (USIM), 2007-2023; a Visiting Professor at Académie Européenne des Cultures Et Des Savoirs Islamiquesues (AECSI), Paris - France, 2021; and at Universiti Kebangsaan Malaysia (UKM), 2016. He was born on 11 june, 1973 in Soppeng, Sulawesi Selatan, Indonesia, he received his Ph.D in Akidah and Islamic Philosophy from the University of Cairo. Kamal is the author of Al-ʻAqīdah al-Islāmīyah wa-Al-Qadāyā al-Khilāfīyah ʻinda ʻUlamāʼ al-Kalām, published by Dār al-Kutub al-ʻIlmīyah, Beirūt, Lebanon.
 
 He was appointed as a Keynote and Invited Speaker for International Seminar, at Marmara University, Istanbul Turkiye, Çanakkale Onsekiz Mart University, Turkiye, International Islamic Academy of Uzbekistan, and some universities in Malaysia, Indonesia and Brunei Darussalam. He had become a supervisor for 3 Master and 15 Ph.D (Graduated), and External Examiner for 5 Master and 38 Ph.D. Currently has written [18 books](https://kamaluddinnurdin.github.io/publications/) in Arabic and Malay languages, and published in various countries such as Beirut-Lebanon, Cairo-Egypt, Abud Dhabi-UEA, Malaysia, Indonesia and Brunei Darussalam.
 
@@ -64,8 +64,10 @@ The books are collected by various universities in the world:
 - [Public Library of Bahāʾ ad-Dīn al-ʿĀmilī, Lebanon](http://library.alalbayt.org.lb/cgi-bin/koha/opac-detail.pl?biblionumber=9200)
 - [King Fahad National Library, Saudi Arabia](https://ecat.kfnl.gov.sa/ipac20/ipac.jsp?session=16012091V09E7.28507&profile=akfnl&uri=full%3D3100006%40%21593439%40%210&booklistformat=)
 
-<div class="rtl">
-السيرة الذاتية المختصرة
+<div style="font-size: 1.5rem; text-decoration: underline;">
+  <div class="rtl">
+  السيرة الذاتية المختصرة
+  </div>
 </div>
 
 <div class="rtl">
