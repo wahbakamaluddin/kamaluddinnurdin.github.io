@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'></a>
+subtitle: <a href="mailto:kamaluddin.nur@unissa.edu.bn">kamaluddin.nur@unissa.edu.bn</a>, <a href="mailto:kamalnurdin@yahoo.com">kamalnurdin@yahoo.com</a>
 
 profile:
   align: right
@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     As an Invited Speaker, International Seminar, Marmara University, Türkiye, 2 March 2018
+
 news: false # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
