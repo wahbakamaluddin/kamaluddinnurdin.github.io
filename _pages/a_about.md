@@ -21,6 +21,15 @@ Is a Profesor Madya and Head of Postgraduate Programme at Faculty of Usuluddin, 
 
 He was appointed as a Keynote and Invited Speaker for International Seminar, at Marmara University, Istanbul Turkiye, Çanakkale Onsekiz Mart University, Turkiye, International Islamic Academy of Uzbekistan, and some universities in Malaysia, Indonesia and Brunei Darussalam. He had become a supervisor for 3 Master and 15 Ph.D (Graduated), and External Examiner for 5 Master and 38 Ph.D. Currently has written [18 books](https://kamaluddinnurdin.github.io/publications/) in Arabic and Malay languages, and published in various countries such as Beirut-Lebanon, Cairo-Egypt, Abud Dhabi-UEA, Malaysia, Indonesia and Brunei Darussalam.
 
+<div class="rtl">
+أستاذ مشارك ورئيس قسم الدراسات العليا في كلية أصول الدين بجامعة السلطان شريف علي الإسلامية (UNISSA). وكان أستاذًا مشاركًا في كلية القيادة والإدارة بجامعة العلوم الإسلامية الماليزية (USIM) من عام 2007 إلى عام 2023؛ وأستاذًا زائرًا في الأكاديمية الأوروبية للثقافات والمعارف الإسلامية (AECSI) بباريس - فرنسا في عام 2021؛ وفي جامعة الوطنية الماليزية (UKM) في عام 2016. ولد في 11 يونيو 1973م في سوبينغ، سولاويسي سيلاتان، إندونيسيا، وحصل على درجة الدكتوراه في العقيدة والفلسفة الإسلامية من جامعة القاهرة سنة ٢٠٠٥م. كمال هو مؤلف كتاب "العقيدة الإسلامية والقضايا الخلافية عند علماء الكلام"، الذي نشرته دار الكتب العلمية في بيروت، لبنان.
+</div>
+
+<div class="rtl">
+تم تعيينه كمتحدث رئيسي ومتحدث مدعو للمؤتمرات الدولية في جامعة مرمرة بإسطنبول في تركيا، وجامعة تشاناكالي أونسيكيز مارت في تركيا، والأكاديمية الإسلامية الدولية في أوزبكستان، وبعض الجامعات في ماليزيا وإندونيسيا وبروناي دار السلام. كان مشرفًا على 3 ماجستير و 15 دكتوراه (وجميعهم تخرجوا)، وممتحنًا خارجيًا ل 5 ماجستير و 38 دكتوراه. وحاليا كتب 18 كتابًا باللغتين العربية والملايوية. ونُشرت في مختلف البلدان مثل بيروت في لبنان، والقاهرة في مصر، وأبو ظبي في الإمارات العربية المتحدة، وماليزيا، وإندونيسيا، وبروناي دار السلام.
+
+</div>
+
 The books are collected by various universities in the world:
 
 - [Harvard University, USA](https://hollis.harvard.edu/primo-explore/search?query=any,contains,Marj%C5%ABn%C4%AB,%20Kam%C4%81l%20al-D%C4%ABn%20N%C5%ABr%20al-D%C4%ABn&tab=everything&search_scope=everything&vid=HVD2&offset=0)
@@ -59,15 +68,3 @@ The books are collected by various universities in the world:
 - [Qatar National Library, Qatar](<https://elibrary.qnl.qa/iii/mobile/search/C__S%D9%85%D8%B1%D8%AC%D9%88%D9%86%D9%8A__Ff:facetlocations:mg:mg:Main%20General%20Collection%20(QNL)::__Ff:facetlocations:mj:mj:Children%20Library%20(QNL)::__Ff:facetlocations:mh:mh:Heritage%20Library%20(QNL)::__Ff:facetlocations:monle:monle:QNL%20Online%20Collection::__Ff:facetlocations:mt:mt:Teens%20Section%20(QNL)::__Orightresult__X0?lang=ara&suite=def&ivts=18dRwDYIx7HeOwXAW0EL5w%3D%3D&casts=mG7Eo2CNVTSlzw1KJD1cPg%3D%3D>)
 - [Public Library of Bahāʾ ad-Dīn al-ʿĀmilī, Lebanon](http://library.alalbayt.org.lb/cgi-bin/koha/opac-detail.pl?biblionumber=9200)
 - [King Fahad National Library, Saudi Arabia](https://ecat.kfnl.gov.sa/ipac20/ipac.jsp?session=16012091V09E7.28507&profile=akfnl&uri=full%3D3100006%40%21593439%40%210&booklistformat=)
-
-<div class="rtl">
-كمال الدين نور الدين مرجوني
-</div>
-<div class="rtl">
-أستاذ مشارك ورئيس قسم الدراسات العليا في كلية أصول الدين بجامعة السلطان شريف علي الإسلامية (UNISSA). وكان أستاذًا مشاركًا في كلية القيادة والإدارة بجامعة العلوم الإسلامية الماليزية (USIM) من عام 2007 إلى عام 2023؛ وأستاذًا زائرًا في الأكاديمية الأوروبية للثقافات والمعارف الإسلامية (AECSI) بباريس - فرنسا في عام 2021؛ وفي جامعة الوطنية الماليزية (UKM) في عام 2016. ولد في 11 يونيو 1973م في سوبينغ، سولاويسي سيلاتان، إندونيسيا، وحصل على درجة الدكتوراه في العقيدة والفلسفة الإسلامية من جامعة القاهرة سنة ٢٠٠٥م. كمال هو مؤلف كتاب "العقيدة الإسلامية والقضايا الخلافية عند علماء الكلام"، الذي نشرته دار الكتب العلمية في بيروت، لبنان.
-</div>
-
-<div class="rtl">
-تم تعيينه كمتحدث رئيسي ومتحدث مدعو للمؤتمرات الدولية في جامعة مرمرة بإسطنبول في تركيا، وجامعة تشاناكالي أونسيكيز مارت في تركيا، والأكاديمية الإسلامية الدولية في أوزبكستان، وبعض الجامعات في ماليزيا وإندونيسيا وبروناي دار السلام. كان مشرفًا على 3 ماجستير و 15 دكتوراه (وجميعهم تخرجوا)، وممتحنًا خارجيًا ل 5 ماجستير و 38 دكتوراه. وحاليا كتب 18 كتابًا باللغتين العربية والملايوية. ونُشرت في مختلف البلدان مثل بيروت في لبنان، والقاهرة في مصر، وأبو ظبي في الإمارات العربية المتحدة، وماليزيا، وإندونيسيا، وبروناي دار السلام.
-
-</div>
