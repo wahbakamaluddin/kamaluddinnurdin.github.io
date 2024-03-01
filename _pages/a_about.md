@@ -65,6 +65,7 @@ The books are collected by various universities in the world:
 - [King Fahad National Library, Saudi Arabia](https://ecat.kfnl.gov.sa/ipac20/ipac.jsp?session=16012091V09E7.28507&profile=akfnl&uri=full%3D3100006%40%21593439%40%210&booklistformat=)
 
 <div class="rtl">
+<br>
   <div style="font-size: 1.0rem; text-decoration: underline;">
   السيرة الذاتية المختصرة
   </div>
