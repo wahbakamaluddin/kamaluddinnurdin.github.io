@@ -525,7 +525,6 @@ footer.sticky-bottom {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
-  font-size: 1rem; // Set font size to 1 rem
 }
 
 .post-list {
@@ -1111,9 +1110,4 @@ swiper-container {
 .rtl {
   direction: rtl;
   text-align: right;
-}
-
-.title {
-  font-size: 1.5rem; // Set font size to 1 rem
-  text-decoration: underline; // Add underline to the text
 }
