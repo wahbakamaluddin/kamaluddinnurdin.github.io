@@ -5,7 +5,7 @@ ss
 Link to your social media connectionddds, too. This theme is sewcct up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academdicons/), like the ones below. Add your Facddebook, Twitter, LinkedIn, Google Scholar, or just disadddddss
 s
 fdd
-dd
+ddss
 s
 eejf
 dkdcc
