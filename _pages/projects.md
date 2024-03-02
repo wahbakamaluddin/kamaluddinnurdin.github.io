@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conferences & Seminars
+title: Gallery
 permalink: /projects/
 description:
 nav: true
