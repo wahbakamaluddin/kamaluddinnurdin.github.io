@@ -605,14 +605,14 @@ footer.sticky-bottom {
     &:hover {
       .card-title {
         color: var(--global-theme-color);
-        font-size: 2rem;
+        font-size: 1rem;
       }
     }
   }
 
   .card {
     img {
-      width: 100%;
+      width: 50%;
     }
   }
 
