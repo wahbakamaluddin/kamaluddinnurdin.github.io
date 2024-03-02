@@ -9,7 +9,7 @@ display_categories: []
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/gallery.md -->
 <div class="Gallery">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
