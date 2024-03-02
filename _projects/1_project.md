@@ -4,7 +4,7 @@ title: KUPUSB-International Seminar on Usuluddin, 17/08/2023
 description: As a Keynote Speaker
 img: assets/img/posts/03_KUPUSB/01.jpg
 importance: 1
-category:
+category: seminar
 related_publications: true
 ---
 
