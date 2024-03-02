@@ -169,3 +169,13 @@ d-appendix {
     }
   }
 }
+
+/* Adjusted title font size */
+d-article h1,
+d-article h2,
+d-article h3,
+d-article h4,
+d-article h5,
+d-article h6 {
+  font-size: 2rem; /* Adjust the font size value as needed */
+}
