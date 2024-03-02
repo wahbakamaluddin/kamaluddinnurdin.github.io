@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Gallery
 permalink: /projects/
 description:
 nav: true
 nav_order: 3
-display_categories: [seminar]
+display_categories: [seminar, conference, talk]
 horizontal: false
 ---
 
