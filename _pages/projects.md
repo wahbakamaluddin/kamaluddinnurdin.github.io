@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: porjects
 permalink: /projects/
 description:
 nav: true
