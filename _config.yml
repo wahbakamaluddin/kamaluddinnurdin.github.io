@@ -273,7 +273,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: [""] # these tags will be displayed on the front page of your blog
-display_categories: ["conference", "seminar", "article"] # these categories will be displayed on the front page of your blog
+display_categories: ["Malay", "Arabic"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
