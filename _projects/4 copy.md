@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Asy-Sura-Nur Islam, RTB
+title: ASY-SURA-NUR ISLAM, RTB
 description: 06/02/2024
 img: assets/img/gallery/04/01.jpg
 importance: 1
 category: talk
 related_publications: false
 ---
-
-Asy-Sura-Nur Islam, RTB
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
