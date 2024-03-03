@@ -4915,6 +4915,7 @@ d-references {
 }
 
 h1 {
+  font-size: 16px;  
   text-decoration: underline;
   text-decoration-color: hsl(0,100%,40%);
   -webkit-text-decoration-color: hsl(0,100%,40%);
