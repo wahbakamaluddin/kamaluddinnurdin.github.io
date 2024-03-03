@@ -7,7 +7,7 @@ nav_order: 2
 pagination:
   enabled: true
   collection: posts
-  permalink: /acticles/:num/
+  permalink: /articles/:num/
   per_page: 5
   sort_field: date
   sort_reverse: true
