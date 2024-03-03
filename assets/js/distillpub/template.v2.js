@@ -1097,12 +1097,12 @@ ${math}
       body.insertBefore(title, byline);
     }
 
-    let h1 = title.querySelector("h1");
-    if (!h1) {
-      h1 = dom.createElement("h1");
-      h1.textContent = data.title;
-      title.insertBefore(h1, title.firstChild);
-    }
+    // let h1 = title.querySelector("h1");
+    // if (!h1) {
+    //   h1 = dom.createElement("h1");
+    //   h1.textContent = data.title;
+    //   title.insertBefore(h1, title.firstChild);
+    // }
 
     const hasPassword = typeof data.password !== "undefined";
     let interstitial = body.querySelector("d-interstitial");
