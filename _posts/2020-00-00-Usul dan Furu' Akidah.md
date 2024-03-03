@@ -1,8 +1,8 @@
 ---
 layout: distill
-title: USUL DAN FURU' AKIDAH
+title: Usul dan Furu' Akidah
 description:
-categories: article
+categories: Malay
 date: 2024-02-29
 featured:
 

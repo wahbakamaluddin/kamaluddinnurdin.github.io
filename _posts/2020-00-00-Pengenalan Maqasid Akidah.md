@@ -1,8 +1,8 @@
 ---
 layout: distill
-title: PENGENALAN MAQASID AKIDAH
+title: Pengenalan Maqasid Akidah
 description:
-categories: article
+categories: Malay
 date: 2024-02-29
 featured:
 
