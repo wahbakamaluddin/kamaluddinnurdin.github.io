@@ -5,7 +5,7 @@ permalink: /gallery/
 description:
 nav: true
 nav_order: 3
-display_categories: [seminar, conference, talk, gallery]
+display_categories: [Seminar, Conference, PH.D. VIVA VOCE, Talk, Other]
 horizontal: false
 ---
 
