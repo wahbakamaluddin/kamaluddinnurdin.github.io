@@ -43,7 +43,7 @@ _styles: >
 
 Dalam mengkaji akidah perlu memperhatikan aspek ad-Dilalah, apakah ia bersifat Qath’i ataukah Zhanni. Dilihat dari aspek Qath’i ats-Tsubut kebenaran akidah jelas Qath’i al-Tsubut, namun redaksi pada beberapa persoalannya terdapat perselisihan yang perlu dipahami secara detail, teliti dan tepat, sebab ada persoalan yang bersifat Qath’i yaitu pasti (definitive) dan ada yang bersifat Zhanni (spekulatif). Oleh karena itu, dalam perkembangan dan dinamika pemikiran Islam kontemporer, saatnya untuk merajuk bingkai persatuan dengan menonjolkan unsur toleransi, mengedepankan nilai-nilai akidah yang sifatnya esensial dan bukan optional, sebab persolan akidah mengandung dual hal, yaitu: usul akidah yang disifati sebagai perkara esensial dan furu’ akidah yang disifati sebagai perkara optional.
 
-## Pertama: Perkara Usul Akidah
+#### Pertama: Perkara Usul Akidah
 
 Usul Akidah adalah prinsip, asas dan tonggak agama (landmarks of religion), sumbernya (Qat’i Tsubut) dan dalilnyapun bersifat Qat’i (Qat’i Dilalah), di mana lafaznya tidak mengandung kebolehjadian perbedaan pendapat, sebab maknanya tunggal, sehingga tidak mungkin dipahami darinya makna lain selain yang ditunjukkan lafaz itu. (Qat'i al-Tsubut and Qat’i al-Dilalah/Authenticated and Certain in it's meaning).
 
@@ -58,7 +58,7 @@ Di antara persoalan usul akidah adalah, mentauhidkan Allah swt, mengakui adanya 
 
 Dalam hadits dijelaskan secara panjang lebar pada pertemuan malaikat Jibril as dengan Rasul saw dalam sebuah majlis, dan diputuskan bahwa rukun iman ada enam perkara: Percaya kepada Allah, Malaikat, Kitab, Rasul, Hari Kiamat dan Qadha dan Qadar (Takdir) .
 
-## Kedua: Perkara Furu’ Akidah
+#### Kedua: Perkara Furu’ Akidah
 
 Furu’ Akidah adalah persoalan akidah yang tidak bersifat prinsip, sumbernya (Qath’i Tsubut) dan dalilnya bersifat Zanni (Zanni ad-Dilalah), di mana lafaznya mengandung kebolehjadian perbedaan pendapat, sebab maknanya tidak tunggal, sehingga mungkin dipahami darinya makna lain selain yang ditunjukkan lafaz itu. (Qath’i al-Tsubut and Zanni ad-Dilalah/Authenticated but not Certain in its meaning).
 
