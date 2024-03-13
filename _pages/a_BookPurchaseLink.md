@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /BookPurchaseLink
+permalink: /BookPurchaseLink/
 subtitle:
 
 news: false # includes a list of news items
