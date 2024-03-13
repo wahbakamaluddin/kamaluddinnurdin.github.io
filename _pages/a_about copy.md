@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: test
 permalink: /
 subtitle: <a href="mailto:kamaluddin.nur@unissa.edu.bn">kamaluddin.nur@unissa.edu.bn</a>, <a href="mailto:kamalnurdin@yahoo.com">kamalnurdin@yahoo.com</a>
 
