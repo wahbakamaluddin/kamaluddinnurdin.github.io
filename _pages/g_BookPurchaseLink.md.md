@@ -10,7 +10,6 @@ nav_order: 6
 <div style="font-size: 1.0rem; font-weight: bold; text-decoration: underline;">
 Book Purchase Links/ روابط بيع الكتب
 </div>
-<br>
 - [Jarir Bookstore, USA](https://jarirbooksusa.com/72257.html)
 - [Diebuchsuche, German](https://diebuchsuche.de/buch-9782745172464.html?q=isbn%3A9782745172464)
 - [Rushd bookstore, Saudi Arabia](https://rushd.sa/products/%D9%85%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D8%AF-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D8%B1%D8%B7%D8%A8%D9%89-%D8%BA%D9%84%D8%A7%D9%81)
