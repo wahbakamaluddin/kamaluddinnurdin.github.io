@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-<div style="font-size: 2.0rem; font-weight: bold; text-decoration: underline;">
+<div style="font-size: 1.0rem; font-weight: bold; text-decoration: underline;">
 Book Purchase Links/ روابط بيع الكتب
 </div>
 <br>
