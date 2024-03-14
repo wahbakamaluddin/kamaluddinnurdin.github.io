@@ -11,3 +11,5 @@ nav_order: 6
 Book Purchase Links/ روابط بيع الكتب
 </div>
 <br>
+<br>
+- [Jarir Bookstore, USA](https://jarirbooksusa.com/72257.html)
