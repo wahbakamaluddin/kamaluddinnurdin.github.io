@@ -17,4 +17,4 @@ Book Purchase Links/ روابط بيع الكتب
 - [Irsad bookstore, Turkiye](https://www.irsad.com.tr/arama/mercuni)
 - [Marufyayinevi, Turkiye](https://www.marufyayinevi.com.tr/mevkifuz-zeydiyye-ve-ehlis-sunne-minel-akidetil-ismailiyye-ve-felsefetiha-10811?fbclid=IwAR2h2-0VtmxkdNcVgt-aJiXDHsTgziYfmivOXUBmoBTW_87xLKNEC1g2OSI)
 - [Asfar bookstore, Cairo-Egypt](https://asfar.io/product/islamic-doctrectroversial-issues-amg-ologians-9782745178541/)
-- [Cairo-Egypt](https://daralsalam.com/ar/BookDetails/index?BookCode=25368205&Type=4&currentPage=1&BookType=0&index=0&LangId=67&fbclid=IwAR2zpwOU0wPa6UquUK9xYbr2CiPVAG2T_ZVfmLzfF5JoTXP2z4AJjYmIN1s)
+- [Daralsalam, Cairo-Egypt](https://daralsalam.com/ar/BookDetails/index?BookCode=25368205&Type=4&currentPage=1&BookType=0&index=0&LangId=67&fbclid=IwAR2zpwOU0wPa6UquUK9xYbr2CiPVAG2T_ZVfmLzfF5JoTXP2z4AJjYmIN1s)
