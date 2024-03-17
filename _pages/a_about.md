@@ -17,6 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<link rel="icon" href="assets/img/favicons/favicon.ico">
 <div style="font-size: 1.0rem; text-decoration: underline;">
 Short Biodata
 </div>
