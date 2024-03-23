@@ -20,6 +20,7 @@ Book Purchase Links/ روابط بيع الكتب
 - [Marufyayinevi, Turkiye](https://www.marufyayinevi.com.tr/mevkifuz-zeydiyye-ve-ehlis-sunne-minel-akidetil-ismailiyye-ve-felsefetiha-10811?fbclid=IwAR2h2-0VtmxkdNcVgt-aJiXDHsTgziYfmivOXUBmoBTW_87xLKNEC1g2OSI)
 - [Darul Kutub Ilmiah, Lebanon](https://www.al-ilmiyah.com/filter?search_book=%D9%83%D9%85%D8%A7%D9%84+%D8%A7%D9%84%D8%AF%D9%8A%D9%86+%D9%86%D9%88%D8%B1+%D8%A7%D9%84%D8%AF%D9%8A%D9%86)
 - [Arabic Book Shop, Lebanon](https://www.arabicbookshop.net/main/cataloguefilter.asp?auth=Marjuni,%20Kamal%20al-Din%20Nur%20al-Din&sort=6&type=AUTHOR)
+- [Neel wa Furat, Lebanon](https://www.neelwafurat.com/locate.aspx?search=books&entry=%d9%86%d9%88%d8%b1%20%d8%a7%d9%84%d8%af%d9%8a%d9%86%20%d9%85%d8%b1%d8%ac%d9%88%d9%86%d9%8a&Mode=0)
 - [Asfar bookstore, Cairo-Egypt](https://asfar.io/product/islamic-doctrectroversial-issues-amg-ologians-9782745178541/)
 - [Daralsalam, Cairo-Egypt](https://daralsalam.com/ar/BookDetails/index?BookCode=25368205&Type=4&currentPage=1&BookType=0&index=0&LangId=67&fbclid=IwAR2zpwOU0wPa6UquUK9xYbr2CiPVAG2T_ZVfmLzfF5JoTXP2z4AJjYmIN1s)
 - [PTS, Malaysia](https://pts.com.my/penulis/dr.-kamaluddin-nurdin-marjuni)
