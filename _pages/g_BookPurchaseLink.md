@@ -3,7 +3,7 @@ layout: page
 permalink: /BookPurchaseLinks/
 title: Book Purchase Links
 description: Browse through direct links to buy my book from different online retailers
-nav: true
+nav: false
 nav_order: 6
 ---
 
