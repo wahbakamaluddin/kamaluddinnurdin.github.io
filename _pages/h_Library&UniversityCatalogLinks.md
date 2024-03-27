@@ -3,7 +3,7 @@ layout: page
 permalink: /Library&UniversityCatalogLinks/
 title: Library & University Catalog Links
 description: Explore links to libraries and university catalogs worldwide where my book collection is available
-nav: true
+nav: false
 nav_order: 6
 ---
 
