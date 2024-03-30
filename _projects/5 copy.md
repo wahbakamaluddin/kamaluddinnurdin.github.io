@@ -2,7 +2,7 @@
 layout: page
 title: Tazkirah Mingguan, UNISSA-BRUNEI
 description: 16/11/2023
-img: assets/img/gallery/05/01.jpg
+img: assets/img/gallery/22/01.jpg
 importance: 1
 category: Other
 related_publications: false
@@ -12,9 +12,9 @@ related_publications: false
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gallery/05/01.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/gallery/22/01.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gallery/05/02.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/gallery/22/02.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
