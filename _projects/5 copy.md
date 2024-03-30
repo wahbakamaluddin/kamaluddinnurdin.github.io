@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Tazkirah Mingguan, UNISSA-BRUNEI
-description: 16/11/2023
+title: PROGRAM KHIDMAT AKADEMIK
+Universiti Islam Sultan Sharif Ali (UNISSA)
+description: 30/03/2024
 img: assets/img/gallery/22/01.jpg
 importance: 1
-category: Other
+category: Talk
 related_publications: false
 ---
 
@@ -18,3 +19,153 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/img/gallery/22/02.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+"AZAM, OPTIMIS, DAN TAWAKKAL" adalah tiga prinsip atau nilai yang penting dalam Islam yang menggambarkan semangat, keyakinan, dan sikap yang diharapkan dalam menghadapi kehidupan sehari-hari. Berikut adalah penjelasan singkat tentang masing-masing nilai tersebut:
+
+1.  Azam: Merujuk kepada Bahasa Arab (عزم) bermakna: tekad atau niat yang kuat untuk mencapai tujuan tertentu. Dalam Islam, memiliki azam yang kuat sangat penting dalam menjalani kehidupan, karena dengan azam yang kuat, seseorang akan lebih fokus dan tekun dalam mencapai tujuan hidupnya.
+
+2.  Optimis: Dalam Bahasa Arab (تفاؤل) iaitu sikap atau keyakinan yang positif bahwa segala sesuatu akan berjalan dengan baik atau berhasil. Dalam Islam, optimisme merupakan sikap yang dianjurkan karena menunjukkan kepercayaan pada kekuatan Allah dan rencana-Nya yang baik.
+
+3.  Tawakkal: Adalah Bahasa Arab (توكل) bermksud sikap berserah diri sepenuhnya kepada kehendak Allah SWT. Ini berarti bahwa seseorang melakukan segala sesuatu dengan usaha maksimal yang dimiliki, tetapi pada akhirnya melepaskan diri dari kekhawatiran atau kecemasan terhadap hasilnya karena percaya bahwa Allah SWT adalah yang terbaik dalam merencanakan.
+
+Dengan menggabungkan ketiga nilai ini dalam kehidupan sehari-hari, seorang Muslim diharapkan memiliki sikap yang kuat, optimis, dan berserah diri kepada Allah SWT dalam menghadapi cabaran, tantangan dan rintangan hidup.
+
+Berikut dua belas perkara yang perlu dicermati dalam persoalan Azam, Optimis dan Tawakkal, iaitu:
+
+1. Segala Sesuatu Ada Di Tangan Allah.
+
+Pena Allah tertuang dan tertulis dalam keputusan dan ketetapan-Nya (Takdir), sehingga tiada manusia yang dapat lari darinya, tiada seorang yang dapat memprediksikan nasibnya sendiri apalagi nasib orang lain.
+
+Jadilah diri sendiri, tidak perlu berusaha merubah diri menjadi diri orang lain, karena setiap orang memiliki karakteristik tersendiri dan penuh keunikan dengan caranya sendiri.
+
+Sesungguhnya Allah telah memberikan dan menetapkan bagian masing-masing untuk hamba-Nya.
+
+(وَمَا تَدْرِي نَفْسٌ مَّاذَا تَكْسِبُ غَدًا) -لقمان: ۳٤-
+"Dan tiada seorangpun yang dapat mengetahui dengan pasti apa yang akan diusahakannya besok". (Luqman: 34).
+)يُدَبِّرُ ٱلْأَمْرَ مِنَ ٱلسَّمَآءِ إِلَى ٱلْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِى يَوْمٍۢ كَانَ مِقْدَارُهُۥٓ أَلْفَ سَنَةٍۢ مِّمَّا تَعُدُّونَ) -السجدة: ٥-
+
+"Dia mengatur urusan dari langit ke bumi kemudian urusan itu naik kepada-Nya dalam satu hari yang kadarnya adalah seribu tahun menurut perhitunganmu". (As-Sajadah: 5).
+
+2. Ketetapan Allah Merupakan Ujian Bagi Setiap Hamba.
+
+Senang dan susah, baik dan buruk, positif dan negatif, kesemuanya itu merupakan ujian dari Allah .
+
+(ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ) -(الملك: 2-.
+“Yang menjadikan mati dan hidup supaya Dia menguji kamu siapa di antara kamu yang lebih baik amalnya Dan Dia Maha Perkasa lagi Maha Pengampun”. (Al-Mulk: 2).
+
+)وَهُوَ ٱلَّذِى جَعَلَكُمْ خَلَٰٓئِفَ ٱلْأَرْضِ وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍۢ دَرَجَٰتٍۢ لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ ۗ إِنَّ رَبَّكَ سَرِيعُ ٱلْعِقَابِ وَإِنَّهُۥ لَغَفُورٌ رَّحِيمٌۢ ( -الأنعام: 165-.
+“Dan Dialah yang menjadikan kamu penguasapenguasa di bumi dan Dia meninggikan sebahagian kamu atas sebahagian yang lain beberapa derajat untuk mengujimu tentang apa yang diberikanNya kepadamu Sesungguhnya Tuhanmu amat cepat siksaanNya dan sesungguhnya Dia Maha Pengampun lagi Maha Penyayang”. (Al-An’am: 162).
+
+)وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍۢ وَكَانَ عَرْشُهُۥ عَلَى ٱلْمَآءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا( -هود:7-
+“Dan Dialah yang menciptakan langit dan bumi dalam enam masa dan adalah singgasanaNya sebelum itu di atas air agar Dia menguji siapakah di antara kamu yang lebih baik amalnya “. (Hud: 7).
+
+3. Allah Telah Menetapkan Bagian Masing-Masing.
+
+Sesungguhnya Allah telah memberikan dan menetapkan bagian masing-masing untuk hamba-Nya.
+
+(وَٱللَّهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍۢ فِى ٱلرِّزْقِ) -النحل: 71-
+“Dan Allah melebihkan sebahagian kamu dari sebagian yang lain dalam hal rezeki”. (An-Nahl: 71).
+
+(ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ) -الجمعة: 4-
+“Demikianlah karunia Allah diberikanNya kepada siapa yang dikehendakiNya; dan Allah mempunyai karunia yang besar”. (Al-Jum’ah: 4).
+
+(قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ) -آل عمراه: 73-
+“Katakanlah: Sesungguhnya karunia itu di tangan Allah, Allah memberikan karunia-Nya kepada siapa yang dikehendaki-Nya; dan Allah Maha Luas karunia-Nya lagi Maha Mengetahui". (Ali Imran: 73).
+
+(فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنْتُمْ مِنَ الْخَاسِرِينَ) -البقرة: 64-
+“Kalau tidak ada karunia Allah dan rahmatNya atasmu niscaya kamu tergolong orang yang rugi”. (Al-Baqarah: 64).
+
+(ذَٰلِكَ مِن فَضْلِ اللَّهِ عَلَيْنَا وَعَلَى النَّاسِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ) -يوسف: 38-
+"Demikian itu adalah dari karunia Allah kepada kami dan kepada manusia seluruhnya; tetapi kebanyakan manusia tidak mensyukuri-Nya". (Yusuf: 38).
+
+4. Ketetapan Allah Tidak Perlu Diperebutkan.
+
+Demikian Allah sudah tetapkan pembagian kurnia-Nya kepada setiap manusia yang berbeda antara satu sama lain, sehingga Allah melarang untuk saling berebut kurnia Allah tersebut. Oleh karena itu tidak perlu saling dengki mendengki, saling jatuh menjatuhkan dalam hal apapun jua jenis pekerjaan.
+
+(وَلَا تَتَمَنَّوْا مَا فَضَّلَ اللَّهُ بِهِ بَعْضَكُمْ عَلَى بَعْضٍ) -النساء: 32-
+“Dan janganlah kamu iri hati terhadap apa yang dikaruniakan Allah kepada sebahagian kamu lebih banyak dari sebahagian yang lain”. (An-Nisaa: 32).
+
+5. Allah Bagi Sesuai Dengan Keperluan.
+
+Kemungkinan dalam tahun 2023 yang lepas, ada berbagai cita-cita dan harapan yang tidak tercapai dalam hitungan 12 bulan, 48 minggu, 365 hari. Maka bersabarlah, Allah masih memberikan peluang hidup/umur di tahun 2024. Dan mungkin juga selama di tahun 2023 Allah tidak memberikan apa yang kita inginkan, harapkan dan dambakan, tetapi Allah memberikan sesuatu yang kita perlukan di tahun tersebut 2024. Sebab Allah memang senantiasa akan memberikan apa yang diperlukan dan dibutuhkan oleh hamba-Nya, dan bukan apa yang dinginkan semata dan diharapkan oleh hamba.
+
+)وَآتَاكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ ۚ وَإِن تَعُدُّوا نِعْمَتَ اللَّهِ لَا تُحْصُوهَا، إِنَّ الْإِنْسَانَ لَظَلُومٌ كَفَّارٌ) -إبراهيم: 34-
+"Dan Dia telah memberikan kepadamu (keperluanmu) dan segala apa yang kamu mohonkan kepadanya. Dan jika kamu menghitung nikmat Allah, tidaklah dapat kamu menghitungnya. Sesungguhnya manusia itu, sangat zalim dan sangat mengingkari (nikmat Allah)". (Ibrahim: 34).
+
+Firman Allah:
+(رَّبُّكُمْ أَعْلَمُ بِمَا فِي نُفُوسِكُمْ) الاسراء: ۲٥-
+"Tuhanmu lebih mengetahui apa yang ada dalam hatimu". (Al-Israa: 25).
+Dengan demikian, apa yang kita inginkan belum tentu baik, tetapi apa yang Allah bagi dan anugerahkan pasti terbaik bagi manusia.
+
+6. Penilaian Allah Tak Sama Dengan Penilaian Hambanya.
+
+Perlu diketahui bahwa terkadang dalam hitungan manusia, ada beberapa perkara yang tidak disukainya, tetapi justeru itu yang terbaik baginya dan Allahpun memberikannya sesegera mungkin. Sekalipun ia baru akan sadar di kemudian hari bahwa ternyata ia beruntung dengan pemberian Allah tersebut. Itulah kekusasaan Allah yang mutlak.
+
+(وَعَسَىٰٓ أَن تَكْرَهُواْ شَيْـًٔا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰٓ أَن تُحِبُّواْ شَيْـًٔا وَهُوَ شَرٌّ لَّكُمْ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ) --لبقرة: ۲۱٦-
+"Boleh jadi kamu membenci sesuatu padahal ia amat baik bagimu. Dan boleh jadi pula kamu menyukai sesuatu padahal ia amat buruk bagimu; Allah mengetahui sedang kamu tidak mengetahui". (Al-Baqarah: 216).
+
+7. Manusia Perlu Bersikap Optimis Terhadap Nikmat Allah.
+
+Manusia hanya perlu bersikap optimis menjalani roda kehidupan, dengan bersikap positif (حسن الظن) kepada Allah swt, sebab segala perkara dalam hitungan dan pengawasan penguasa langit dan bumi.
+(إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍۢ) -القمر: 49-
+“Sesungguhnya Kami menciptakan segala sesuatu menurut ukuran”. (Al-Qamar: 49).
+(إنّ ربكّ لبالمرصَاد) -الفجر: 14-
+"Sesungguhnya Tuhanmu benar-benar mengawasi". (al-Fajr: 14).
+Sejatinya, dalam menghadapi hidup di dunia dengan berbagai macam rintangan dan tantangan, cukuplah berlindung dan serahkan segalanya kepada Allah.
+(أَلَيْسَ ٱللَّهُ بِكَافٍ عَبْدَهُ) -الزمر: ۳٦-
+"Bukankah Allah cukup untuk melindungi hamba-hamba-Nya". (Az-Zumar: 36).
+Oleh karena, tiada perkara yang susah, kalau Allah memudahkannya, dan yang sudah mudah akan ditambah mudah lagi.
+
+8. Sabar Dan Tawakkal Merupakan Pintu Rahmat Allah Swt.
+
+Jika Allah mencintai hamba-Nya, maka Allah mudahkan baginya pintu-pintu kebaikan, dan kebaikan-kebaikan tersebut membuatkan urusannya menjadi mudah. Dengan demikian, yang utama dan terpenting adalah berusaha semaksimal mungkin dan bersabar serta tawakkal menunggu hasil dan keputusan yang terbaik dari yang Maha Kuasa.
+
+(وَٱصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ) -الطور: ٤۸-
+"Dan bersabarlah dalam menunggu ketetapan/keputusan Tuhanmu, sebab sesungguhnya kamu berada dalam pengawasan Kami. dan bertasbihlah dengan memuji Tuhanmu ketika kamu bangun berdiri". (At-Tuur: 48).
+
+)يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱصْبِرُواْ وَصَابِرُواْ وَرَابِطُواْ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ) -آل عمران: 200-
+“Hai orangorang yang beriman bersabarlah kamu dan kuatkanlah kesabaranmu dan tetaplah bersiap siaga dalam berjuang, dan bertakwalah kepada Allah supaya kamu beruntung”. (Ali Imran: 200).
+
+9. Amal Dan Usaha Yang Kuat Tidak Akan Mengkhianati Hasil.
+
+Sebagai orang yang beriman, dituntut senantiasa berjiwa optimis bahwa Allah akan membalas segala usaha yang dilakukan hamba-Nya. Oleh karena, sekecil apapun usaha yang dilakukan, akan disaksikan di dunia oleh Allah dan Rasul-Nya serta orang-orang yang beriman.
+
+)وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) -التوبة: 105-
+"Dan katakanlah: Bekerjalah kamu, maka Allah dan Rasul-Nya serta orang-orang mukmin akan melihat pekerjaanmu itu, dan kamu akan dikembalikan kepada (Allah) Yang Mengetahui akan yang ghaib dan yang nyata, lalu diberitakan-Nya kepada kamu apa yang telah kamu kerjakan". (at-Taubah: 105).
+
+(إِنَّا لَا نُضِيع أَجْر مَنْ أَحْسَنَ عَمَلًا) -الكهف: ۳۰-
+"Kami tidak akan menyia-nyiakan pahala orang-orang yang mengerjakan amalannya dengan yang baik". (Al-Kahf: 30).
+
+(إِنَّهُ مَنْ يَتَّقِ وَيَصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ) -يوسف: 90-
+"Sesungguhnya barang siapa yang bertakwa dan bersabar maka sesungguhnya Allah tidak menyianyiakan pahala orang-orang yang berbuat baik". (Yusuf: 90).
+
+10. Hanya Amal Yang Di Bawa Ke Penghujung Dunia.
+
+Pada hari kiamat, masing-masing manusia akan membawa amal perbuatannya sendiri yang bertahun-tahun dilakukan di alam dunia, baik dan buruk akan dipertanggungjawabkan sendiri-sendiri di hadapan Allah swt.
+
+(يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ) -الشعراء: ۸۸-۸۹-
+"Di hari (akhirat) harta dan anak-anak laki-laki tidak berguna. Kecuali orang-orang yang menghadap Allah dengan hati yang bersih". (As-Syu'araa: 88, 89).
+
+Di sana akan dibukakan lembaran catatan amalan mereka secara detail dan lengkap seutuhnya, dari hari ke hari, minggu ke minggu, bulan ke bulan, tahun ke tahun selama ia menjalani hidup di alam dunia. Di sana akan dipertanyakan berbagai macam amanah yang diberikan, seperti amanah anak, harta kekayaan, jawatan, pangkat dan lainnya, apakah ia menjalankan amanah tersebut dengan sebaik-baiknya tanpa mengurangi sedikitpun hak orang lain dalam amanah tersebut.
+
+)يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَخُونُوا اللَّهَ وَالرَّسُولَ وَتَخُونُوا أَمَانَاتِكُمْ وَأَنتُمْ تَعْلَمُونَ) -الأنفال: ۲۷-
+"Hai orang-orang yang beriman, janganlah kamu mengkhianati Allah dan Rasul Muhammad, dan juga janganlah kamu mengkhianati amanat-amanat yang dipercayakan kepadamu sedang kamu mengetahui". (Al-Anfal: 27).
+
+11. Balasan Sesuai Denga Perubatan.
+
+Apapun halnya, segala perbuatan dan tindakan baik dan buruknya, akan kembali kepada diri sendiri, baik di dunia maupun di akhirat.
+
+(مَّنْ عَمِلَ صَٰلِحًا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۗ وَمَا رَبُّكَ بِظَلَّٰمٍۢ لِّلْعَبِيد) -فصلت: 46-
+"Barangsiapa yang mengerjakan amal yang saleh maka pahalanya untuk dirinya sendiri, dan barangsiapa mengerjakan perbuatan jahat maka dosanya untuk dirinya sendiri; dan sekalikali tidaklah Rabbmu menganiaya hamba-hamba-Nya". (Fussilat: 46).
+
+)وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۚ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ ۗ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَأَقَامُواْ ٱلصَّلَوٰةَ ۚ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ ۚ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ) -فاطر: 18-
+“Dan orang yang berdosa tidak akan memikul dosa orang lain. Dan jika seseorang yang berat dosanya memanggil orang lain untuk memikul dosanya itu, tiadalah akan dipikulkan untuknya sedikitpun, meskipun yang dipanggilnya itu kaum kerabatnya. Sesungguhnya yang dapat kamu beri peringatan hanya orang-orang yang takut kepada azab Tuhannya sekalipun mereka tidak melihat-Nya, dan mereka mendirikan sembahyang. Dan barangsiapa yang mensucikan dirinya sesungguhnya ia mensucikan diri untuk kebaikan dirinya sendiri. Dan kepada Allahlah kembalimu”. (Fatir; 18)
+
+(وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيْنَٰهُ حُكْمًا وَعِلْمًا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ) -یوسف: 22-
+"Dan tatkala dia (nabi Yusuf) cukup dewasa Kami berikan kepadanya hikmah dan ilmu Demikianlah Kami memberi balasan kepada orangorang yang berbuat baik" (Yusuf: 22).
+
+(إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلًا) -الکهف: 30-.
+"Sesunggunya mereka yang beriman dan beramal saleh tentulah Kami tidak akan menyianyiakan pahala orang-orang yang mengerjakan amalannya dengan yang baik". (al- Kahf: 30).
+
+(وَٱلَّذِينَ يُمَسِّكُونَ بِٱلْكِتَٰبِ وَأَقَامُواْ ٱلصَّلَوٰةَ إِنَّا لَا نُضِيعُ أَجْرَ ٱلْمُصْلِحِينَ) -الأعراف: 170-.
+"Dan orang-orang yang berpegang teguh dengan Al
