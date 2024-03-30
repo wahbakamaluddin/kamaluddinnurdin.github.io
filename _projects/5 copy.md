@@ -1,7 +1,6 @@
 ---
 layout: page
-title: PROGRAM KHIDMAT AKADEMIK
-Universiti Islam Sultan Sharif Ali (UNISSA)
+title: PROGRAM KHIDMAT AKADEMIK Universiti Islam Sultan Sharif Ali (UNISSA)
 description: 30/03/2024
 img: assets/img/gallery/22/01.jpg
 importance: 1
@@ -19,3 +18,4 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/img/gallery/22/02.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+s
