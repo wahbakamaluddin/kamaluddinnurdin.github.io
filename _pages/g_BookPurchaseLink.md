@@ -18,6 +18,8 @@ Book Purchase Links/ روابط بيع الكتب
 - [Warraqoon bookstore, Saudi Arabia](https://www.nasihaa.com/product/mokf-alzydy-oahl-alsn-mn-alaakyd-alesmaaayly-oflsftha)
 - [Kotobon, Saudi Arabia](https://kotobon.com/listBy.php?item_id=14130&by=authors)
 - [Irsad bookstore, Turkiye](https://www.irsad.com.tr/arama/mercuni)
+- [Hasimi, Turkiye](https://www.hasimiyayinevi.com/tr/nes-etu-l-fark-ve-tefrikuha-aa-031-0746-008.html)
+- [Dininesriyat, Turkiye](http://dininesriyat.com/akide-ve-kelam/%D9%86%D8%B4%D8%A7%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D9%88%D8%AA%D9%81%D8%B1%D9%82%D9%87%D8%A7-/1096/detay)
 - [Marufyayinevi, Turkiye](https://www.marufyayinevi.com.tr/mevkifuz-zeydiyye-ve-ehlis-sunne-minel-akidetil-ismailiyye-ve-felsefetiha-10811?fbclid=IwAR2h2-0VtmxkdNcVgt-aJiXDHsTgziYfmivOXUBmoBTW_87xLKNEC1g2OSI)
 - [Darul Kutub Ilmiah, Lebanon](https://www.al-ilmiyah.com/filter?search_book=%D9%83%D9%85%D8%A7%D9%84+%D8%A7%D9%84%D8%AF%D9%8A%D9%86+%D9%86%D9%88%D8%B1+%D8%A7%D9%84%D8%AF%D9%8A%D9%86)
 - [Arabic Book Shop, Lebanon](https://www.arabicbookshop.net/main/cataloguefilter.asp?auth=Marjuni,%20Kamal%20al-Din%20Nur%20al-Din&sort=6&type=AUTHOR)
