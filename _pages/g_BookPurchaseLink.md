@@ -13,6 +13,8 @@ Book Purchase Links/ روابط بيع الكتب
 - [Al-Kitab, USA](https://alkitab.com/72257.html)
 - [Jarir Bookstore, USA](https://jarirbooksusa.com/72257.html)
 - [Diebuchsuche, German](https://diebuchsuche.de/buch-9782745172464.html?q=isbn%3A9782745172464)
+- [Abe Books, Canada](https://www.abebooks.com/9782745172464/Nashat-al-firaq-wa-tafarruquha-al-Zaydiyah-al-Imamiyah-2745172468/plp)
+- [Amazon, Brasil](https://www.amazon.com.br/Nashat-al-firaq-wa-tafarruquha-al-Zaydiyah-al-Maturidiyah/dp/2745172468)
 - [Rushd bookstore, Saudi Arabia](https://rushd.sa/products/%D9%85%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D8%AF-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D8%B1%D8%B7%D8%A8%D9%89-%D8%BA%D9%84%D8%A7%D9%81)
 - [Kotobon, Saudi Arabia](https://wrraqoon.com/index.php?route=product%2Fsearch&search=%D8%A7%D9%84%D8%A8%D9%88%D8%BA%D9%8A%D8%B3%D9%8A&fbclid=IwAR2HlHUx58ZknDmYcD84oYDDvUdw-K8BpZ0_Qmzq3vyOq1Xeu0kJETFqoAI)
 - [Warraqoon bookstore, Saudi Arabia](https://www.nasihaa.com/product/mokf-alzydy-oahl-alsn-mn-alaakyd-alesmaaayly-oflsftha)
