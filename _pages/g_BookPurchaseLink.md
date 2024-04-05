@@ -32,4 +32,7 @@ Book Purchase Links/ روابط بيع الكتب
 - [Pgmall, Malaysia](https://pgmall.my/p/P218/5321)
 - [Lazada, Malaysia](https://www.lazada.com.my/products/pts-publishing-house-adakah-kawanku-syiah-buku-syiah-i2370638941-s10179167952.html?spm=a2o4k.tm80183341.min-pdp.1.468a62fbOFdStr.468a62fbOFdStrpriceCompare=skuId%3A10179167952%3Bsource%3Alazada-om%3Bsn%3A2102fcc617119728768931789e956b%3BunionTrace%3A2102fcc617119728768931789e956b%3BoriginPrice%3A2500%3BvoucherPrice%3A2500%3BdisplayPrice%3A2500%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A1%3BbuyerId%3A0%3Btimestamp%3A1711972877033&pdpBucketId=5)
 - [Kinokuniya, Malaysia](https://malaysia.kinokuniya.com/bw/9789674117498)
-- [My harakahbazaar, Malaysia](https://myharakahbazaar.com/index.php?route=product/product&product_id=842)
+- [Kedai buku, Malaysia](https://kedaibuku.com.my/kamaluddin-nurdin-marjuni-en-2/)
+- [Kaki buku, Malaysia]( https://kakibuku.my/search?keyword=Kamaluddin+Nurdin+Marjuni)
+- [Penerbit X, Malaysia](https://penerbitx.com/buku/adakah-kawanku-syiah)
+- [Tokopedia, Indonesia](https://www.tokopedia.com/wyng-express/kitab-mauqif-az-zaidiyyah-wa-ahlis-sunnah-minal-aqidah-al-ismailiyyah?utm_source=google&utm_medium=organic&utm_campaign=pdp-seo)
