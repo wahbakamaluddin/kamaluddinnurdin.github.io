@@ -12,7 +12,8 @@ Book Purchase Links/ روابط بيع الكتب
 </div>
 - [Al-Kitab, USA](https://alkitab.com/72257.html)
 - [Jarir Bookstore, USA](https://jarirbooksusa.com/72257.html)
-- [Diebuchsuche, German](https://diebuchsuche.de/buch-9782745172464.html?q=isbn%3A9782745172464)
+- [Diebuchsuche, Germany](https://diebuchsuche.de/buch-9782745172464.html?q=isbn%3A9782745172464)
+- [JustBooka, Germany](https://www.justbooks.de/search/?ac=sl&st=sl&ref=bf_s2_a25_t1_43&qi=le1F5G21,.79B.MCdUhBS61gzJg_1713021253_1:8888:13577&bq=author%3Dkamal%2520al%2Ddin%2520marjuni%26title%3Dnash%2527at%2520al%2Dfiraq%2520wa%2Dtafarruquha%252C%2520al%2Dzaydiyah%2520%2D%2520al%2Dimamiyah%2520al%2Dithnay%2520%2527ashariyah%2520%2D%2520al%2Disma%2527iliyah%2520al%2Dbatiniyah%2520%2D%2520al%2Dibadiyah%2520%2D%2520al%2Dmu%2527tazilah%2520%2D%2520al%2Dash%2527ariyah%2520%2D%2520al%2Dmaturidiyah%2520%2D%2520al%2Dzahiriyah)
 - [Abe Books, Canada](https://www.abebooks.com/9782745172464/Nashat-al-firaq-wa-tafarruquha-al-Zaydiyah-al-Imamiyah-2745172468/plp)
 - [Amazon, Brasil](https://www.amazon.com.br/Nashat-al-firaq-wa-tafarruquha-al-Zaydiyah-al-Maturidiyah/dp/2745172468)
 - [Rushd bookstore, Saudi Arabia](https://rushd.sa/products/%D9%85%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D8%AF-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D8%B1%D8%B7%D8%A8%D9%89-%D8%BA%D9%84%D8%A7%D9%81)
