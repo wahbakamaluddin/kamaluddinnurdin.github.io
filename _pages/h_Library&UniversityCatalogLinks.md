@@ -2,7 +2,7 @@
 layout: page
 permalink: /Library&UniversityCatalogLinks/
 title: Library & University Catalog Links
-description: Explore links to libraries and university catalogs worldwide where Kamaluddin's book collection is available
+description: Explore links to libraries and university catalogs worldwide where Kamaluddin's book collection is available.
 nav: false
 nav_order: 6
 ---

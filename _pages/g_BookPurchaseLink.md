@@ -2,7 +2,7 @@
 layout: page
 permalink: /BookPurchaseLinks/
 title: Book Purchase Links
-description: Browse through direct links to buy Kamaluddin's book from different online retailers
+description: Browse through direct links to buy Kamaluddin's book from different online retailers.
 nav: false
 nav_order: 6
 ---
