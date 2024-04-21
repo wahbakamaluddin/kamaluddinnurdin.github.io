@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: wahbakamaluddin/kamaluddinnurdin.github.io/sitemap.xml
+Sitemap: wahbakamaluddin/kamaluddinnurdinPrototype/sitemap.xml
